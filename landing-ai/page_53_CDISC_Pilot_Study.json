@@ -1,0 +1,5585 @@
+{
+  "markdown": "<a id='aec5846d-f678-44d7-bc88-3b34083d688e'></a>\n\nProtocol Attachment LZZT.1\nSchedule of Events for Protocol H2Q-MC-LZZT(c)\n\n<a id='d8c1d3e5-a84e-4df9-bc5f-706d65fc0485'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\">VISIT</td><td id=\"0-4\">1</td><td id=\"0-5\">2</td><td id=\"0-6\">3</td><td id=\"0-7\">4</td><td id=\"0-8\">5</td><td id=\"0-9\"></td><td id=\"0-a\">7</td><td id=\"0-b\">8</td></tr>\n<tr><td id=\"0-c\">ACTIVITY</td><td id=\"0-d\">WEEK</td><td id=\"0-e\">-2</td><td id=\"0-f\">-.3</td><td id=\"0-g\">0</td><td id=\"0-h\">2</td><td id=\"0-i\">4</td><td id=\"0-j\"></td><td id=\"0-k\">6</td><td id=\"0-l\">8</td></tr>\n<tr><td id=\"0-m\">Informed consent</td><td id=\"0-n\"></td><td id=\"0-o\">X</td><td id=\"0-p\"></td><td id=\"0-q\"></td><td id=\"0-r\"></td><td id=\"0-s\"></td><td id=\"0-t\"></td><td id=\"0-u\"></td><td id=\"0-v\"></td></tr>\n<tr><td id=\"0-w\">Patient number assigned</td><td id=\"0-x\"></td><td id=\"0-y\">X</td><td id=\"0-z\"></td><td id=\"0-A\"></td><td id=\"0-B\"></td><td id=\"0-C\"></td><td id=\"0-D\"></td><td id=\"0-E\"></td><td id=\"0-F\"></td></tr>\n<tr><td id=\"0-G\">Hachinski ≤4</td><td id=\"0-H\"></td><td id=\"0-I\">X</td><td id=\"0-J\"></td><td id=\"0-K\"></td><td id=\"0-L\"></td><td id=\"0-M\"></td><td id=\"0-N\"></td><td id=\"0-O\"></td><td id=\"0-P\"></td></tr>\n<tr><td id=\"0-Q\">MMSE 10-23</td><td id=\"0-R\"></td><td id=\"0-S\">X</td><td id=\"0-T\"></td><td id=\"0-U\"></td><td id=\"0-V\"></td><td id=\"0-W\"></td><td id=\"0-X\"></td><td id=\"0-Y\"></td><td id=\"0-Z\"></td></tr>\n<tr><td id=\"0-10\">Physical examination</td><td id=\"0-11\"></td><td id=\"0-12\">X</td><td id=\"0-13\"></td><td id=\"0-14\"></td><td id=\"0-15\"></td><td id=\"0-16\"></td><td id=\"0-17\"></td><td id=\"0-18\"></td><td id=\"0-19\"></td></tr>\n<tr><td id=\"0-1a\">Medical History</td><td id=\"0-1b\"></td><td id=\"0-1c\">X</td><td id=\"0-1d\"></td><td id=\"0-1e\"></td><td id=\"0-1f\"></td><td id=\"0-1g\"></td><td id=\"0-1h\"></td><td id=\"0-1i\"></td><td id=\"0-1j\"></td></tr>\n<tr><td id=\"0-1k\">Habits</td><td id=\"0-1l\"></td><td id=\"0-1m\">X</td><td id=\"0-1n\"></td><td id=\"0-1o\"></td><td id=\"0-1p\"></td><td id=\"0-1q\"></td><td id=\"0-1r\"></td><td id=\"0-1s\"></td><td id=\"0-1t\"></td></tr>\n<tr><td id=\"0-1u\">Chest x-ray</td><td id=\"0-1v\"></td><td id=\"0-1w\">X</td><td id=\"0-1x\"></td><td id=\"0-1y\"></td><td id=\"0-1z\"></td><td id=\"0-1A\"></td><td id=\"0-1B\"></td><td id=\"0-1C\"></td><td id=\"0-1D\"></td></tr>\n<tr><td id=\"0-1E\">Apo E genotyping</td><td id=\"0-1F\"></td><td id=\"0-1G\"></td><td id=\"0-1H\"></td><td id=\"0-1I\"></td><td id=\"0-1J\">X</td><td id=\"0-1K\"></td><td id=\"0-1L\"></td><td id=\"0-1M\"></td><td id=\"0-1N\"></td></tr>\n<tr><td id=\"0-1O\">Patient randomized</td><td id=\"0-1P\"></td><td id=\"0-1Q\"></td><td id=\"0-1R\"></td><td id=\"0-1S\">X</td><td id=\"0-1T\"></td><td id=\"0-1U\"></td><td id=\"0-1V\"></td><td id=\"0-1W\"></td><td id=\"0-1X\"></td></tr>\n<tr><td id=\"0-1Y\">Vital signs/Temperature</td><td id=\"0-1Z\"></td><td id=\"0-20\">X</td><td id=\"0-21\">X</td><td id=\"0-22\">X</td><td id=\"0-23\">X</td><td id=\"0-24\">X</td><td id=\"0-25\"></td><td id=\"0-26\">X</td><td id=\"0-27\">X</td></tr>\n<tr><td id=\"0-28\">Ambulatory ECG placed</td><td id=\"0-29\"></td><td id=\"0-2a\"></td><td id=\"0-2b\">X</td><td id=\"0-2c\"></td><td id=\"0-2d\"></td><td id=\"0-2e\"></td><td id=\"0-2f\"></td><td id=\"0-2g\"></td><td id=\"0-2h\"></td></tr>\n<tr><td id=\"0-2i\">Ambulatory ECG removed</td><td id=\"0-2j\"></td><td id=\"0-2k\"></td><td id=\"0-2l\"></td><td id=\"0-2m\">X</td><td id=\"0-2n\"></td><td id=\"0-2o\"></td><td id=\"0-2p\"></td><td id=\"0-2q\"></td><td id=\"0-2r\"></td></tr>\n<tr><td id=\"0-2s\">ECG</td><td id=\"0-2t\"></td><td id=\"0-2u\">X</td><td id=\"0-2v\"></td><td id=\"0-2w\"></td><td id=\"0-2x\">X</td><td id=\"0-2y\">X</td><td id=\"0-2z\"></td><td id=\"0-2A\">X</td><td id=\"0-2B\">X</td></tr>\n<tr><td id=\"0-2C\">Placebo TTS test</td><td id=\"0-2D\"></td><td id=\"0-2E\">X</td><td id=\"0-2F\"></td><td id=\"0-2G\"></td><td id=\"0-2H\"></td><td id=\"0-2I\"></td><td id=\"0-2J\"></td><td id=\"0-2K\"></td><td id=\"0-2L\"></td></tr>\n<tr><td id=\"0-2M\">CT Scan (if not within\nlast year and patient passes\nall other screens)</td><td id=\"0-2N\"></td><td id=\"0-2O\">X</td><td id=\"0-2P\"></td><td id=\"0-2Q\"></td><td id=\"0-2R\"></td><td id=\"0-2S\"></td><td id=\"0-2T\"></td><td id=\"0-2U\"></td><td id=\"0-2V\"></td></tr>\n<tr><td id=\"0-2W\">Concomitant Medications</td><td id=\"0-2X\"></td><td id=\"0-2Y\">X</td><td id=\"0-2Z\"></td><td id=\"0-30\">X</td><td id=\"0-31\">X</td><td id=\"0-32\">X</td><td id=\"0-33\"></td><td id=\"0-34\">X</td><td id=\"0-35\">X</td></tr>\n<tr><td id=\"0-36\">Laboratory (Chem/Hemat):</td><td id=\"0-37\"></td><td id=\"0-38\">X</td><td id=\"0-39\"></td><td id=\"0-3a\"></td><td id=\"0-3b\">X</td><td id=\"0-3c\">X</td><td id=\"0-3d\"></td><td id=\"0-3e\">X</td><td id=\"0-3f\">X</td></tr>\n<tr><td id=\"0-3g\">Laboratory (Urinalysis)</td><td id=\"0-3h\"></td><td id=\"0-3i\">X</td><td id=\"0-3j\"></td><td id=\"0-3k\"></td><td id=\"0-3l\">X</td><td id=\"0-3m\"></td><td id=\"0-3n\"></td><td id=\"0-3o\"></td><td id=\"0-3p\"></td></tr>\n<tr><td id=\"0-3q\">Plasma Specimen (Xanomeline)</td><td id=\"0-3r\"></td><td id=\"0-3s\"></td><td id=\"0-3t\"></td><td id=\"0-3u\">X</td><td id=\"0-3v\">X</td><td id=\"0-3w\">X</td><td id=\"0-3x\"></td><td id=\"0-3y\">X</td><td id=\"0-3z\"></td></tr>\n<tr><td id=\"0-3A\">Hemoglobin A1c</td><td id=\"0-3B\"></td><td id=\"0-3C\">Xa</td><td id=\"0-3D\"></td><td id=\"0-3E\"></td><td id=\"0-3F\"></td><td id=\"0-3G\"></td><td id=\"0-3H\"></td><td id=\"0-3I\"></td><td id=\"0-3J\"></td></tr>\n<tr><td id=\"0-3K\">Study drug record Medications dispensed Medications returned</td><td id=\"0-3L\"></td><td id=\"0-3M\"></td><td id=\"0-3N\"></td><td id=\"0-3O\">X</td><td id=\"0-3P\">X</td><td id=\"0-3Q\">X</td><td id=\"0-3R\"></td><td id=\"0-3S\">X</td><td id=\"0-3T\">X</td></tr>\n<tr><td id=\"0-3U\">TTS Acceptability Survey</td><td id=\"0-3V\"></td><td id=\"0-3W\"></td><td id=\"0-3X\"></td><td id=\"0-3Y\"></td><td id=\"0-3Z\"></td><td id=\"0-40\"></td><td id=\"0-41\"></td><td id=\"0-42\"></td><td id=\"0-43\"></td></tr>\n<tr><td id=\"0-44\">ADAS-Cog</td><td id=\"0-45\"></td><td id=\"0-46\">P</td><td id=\"0-47\"></td><td id=\"0-48\">X</td><td id=\"0-49\"></td><td id=\"0-4a\"></td><td id=\"0-4b\"></td><td id=\"0-4c\"></td><td id=\"0-4d\">X</td></tr>\n<tr><td id=\"0-4e\">CIBIC+</td><td id=\"0-4f\"></td><td id=\"0-4g\">P</td><td id=\"0-4h\"></td><td id=\"0-4i\">X</td><td id=\"0-4j\"></td><td id=\"0-4k\"></td><td id=\"0-4l\"></td><td id=\"0-4m\"></td><td id=\"0-4n\">X</td></tr>\n<tr><td id=\"0-4o\">DAD</td><td id=\"0-4p\"></td><td id=\"0-4q\">P</td><td id=\"0-4r\"></td><td id=\"0-4s\">X</td><td id=\"0-4t\"></td><td id=\"0-4u\"></td><td id=\"0-4v\"></td><td id=\"0-4w\"></td><td id=\"0-4x\">X</td></tr>\n<tr><td id=\"0-4y\">NPI-X</td><td id=\"0-4z\"></td><td id=\"0-4A\">P</td><td id=\"0-4B\"></td><td id=\"0-4C\">X</td><td id=\"0-4D\">X</td><td id=\"0-4E\">X</td><td id=\"0-4F\"></td><td id=\"0-4G\">X</td><td id=\"0-4H\">Xb</td></tr>\n<tr><td id=\"0-4I\">Adverse events</td><td id=\"0-4J\"></td><td id=\"0-4K\">X</td><td id=\"0-4L\">X</td><td id=\"0-4M\">X</td><td id=\"0-4N\">X</td><td id=\"0-4O\">X</td><td id=\"0-4P\"></td><td id=\"0-4Q\">X</td><td id=\"0-4R\">X</td></tr>\n</table>\n\n<a id='1dfe9561-966d-4fa3-8890-aa071c71c207'></a>\n\nAbbreviations: CT = computed tomography; ECG = electrocardiogram\nX = Performed at this visit.\nXa = Performed at this visit if patient is an insulin-dependent diabetic.\nXb = Performed at this visit and via telephone interview 2 weeks following this visit.\nP = Practice only - It is recommended that a sampling of the CIBIC+, ADAS-Cog, DAD,\nand NPI-X be administered at Visit 1. Data from this sampling would not be\nconsidered as study data and would not be collected.\n\n<a id='b9059dca-c55e-4355-8b9a-6c51ffde821a'></a>\n\nXanomeline (LY246708) H2Q-MC-LZZT(c) Clinical Study Protocol\n\n<a id='fee602f3-25c2-4d58-98b8-0f4272c87fa7'></a>\n\nCopyright \u0016 2006 Eli Lilly and Company Document Page 53",
+  "chunks": [
+    {
+      "markdown": "<a id='aec5846d-f678-44d7-bc88-3b34083d688e'></a>\n\nProtocol Attachment LZZT.1\nSchedule of Events for Protocol H2Q-MC-LZZT(c)",
+      "type": "text",
+      "id": "aec5846d-f678-44d7-bc88-3b34083d688e",
+      "grounding": {
+        "box": {
+          "left": 0.2137344777584076,
+          "top": 0.09008801728487015,
+          "right": 0.8450392484664917,
+          "bottom": 0.14418964087963104
+        },
+        "page": 0
+      }
+    },
+    {
+      "markdown": "<a id='d8c1d3e5-a84e-4df9-bc5f-706d65fc0485'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\">VISIT</td><td id=\"0-4\">1</td><td id=\"0-5\">2</td><td id=\"0-6\">3</td><td id=\"0-7\">4</td><td id=\"0-8\">5</td><td id=\"0-9\"></td><td id=\"0-a\">7</td><td id=\"0-b\">8</td></tr>\n<tr><td id=\"0-c\">ACTIVITY</td><td id=\"0-d\">WEEK</td><td id=\"0-e\">-2</td><td id=\"0-f\">-.3</td><td id=\"0-g\">0</td><td id=\"0-h\">2</td><td id=\"0-i\">4</td><td id=\"0-j\"></td><td id=\"0-k\">6</td><td id=\"0-l\">8</td></tr>\n<tr><td id=\"0-m\">Informed consent</td><td id=\"0-n\"></td><td id=\"0-o\">X</td><td id=\"0-p\"></td><td id=\"0-q\"></td><td id=\"0-r\"></td><td id=\"0-s\"></td><td id=\"0-t\"></td><td id=\"0-u\"></td><td id=\"0-v\"></td></tr>\n<tr><td id=\"0-w\">Patient number assigned</td><td id=\"0-x\"></td><td id=\"0-y\">X</td><td id=\"0-z\"></td><td id=\"0-A\"></td><td id=\"0-B\"></td><td id=\"0-C\"></td><td id=\"0-D\"></td><td id=\"0-E\"></td><td id=\"0-F\"></td></tr>\n<tr><td id=\"0-G\">Hachinski ≤4</td><td id=\"0-H\"></td><td id=\"0-I\">X</td><td id=\"0-J\"></td><td id=\"0-K\"></td><td id=\"0-L\"></td><td id=\"0-M\"></td><td id=\"0-N\"></td><td id=\"0-O\"></td><td id=\"0-P\"></td></tr>\n<tr><td id=\"0-Q\">MMSE 10-23</td><td id=\"0-R\"></td><td id=\"0-S\">X</td><td id=\"0-T\"></td><td id=\"0-U\"></td><td id=\"0-V\"></td><td id=\"0-W\"></td><td id=\"0-X\"></td><td id=\"0-Y\"></td><td id=\"0-Z\"></td></tr>\n<tr><td id=\"0-10\">Physical examination</td><td id=\"0-11\"></td><td id=\"0-12\">X</td><td id=\"0-13\"></td><td id=\"0-14\"></td><td id=\"0-15\"></td><td id=\"0-16\"></td><td id=\"0-17\"></td><td id=\"0-18\"></td><td id=\"0-19\"></td></tr>\n<tr><td id=\"0-1a\">Medical History</td><td id=\"0-1b\"></td><td id=\"0-1c\">X</td><td id=\"0-1d\"></td><td id=\"0-1e\"></td><td id=\"0-1f\"></td><td id=\"0-1g\"></td><td id=\"0-1h\"></td><td id=\"0-1i\"></td><td id=\"0-1j\"></td></tr>\n<tr><td id=\"0-1k\">Habits</td><td id=\"0-1l\"></td><td id=\"0-1m\">X</td><td id=\"0-1n\"></td><td id=\"0-1o\"></td><td id=\"0-1p\"></td><td id=\"0-1q\"></td><td id=\"0-1r\"></td><td id=\"0-1s\"></td><td id=\"0-1t\"></td></tr>\n<tr><td id=\"0-1u\">Chest x-ray</td><td id=\"0-1v\"></td><td id=\"0-1w\">X</td><td id=\"0-1x\"></td><td id=\"0-1y\"></td><td id=\"0-1z\"></td><td id=\"0-1A\"></td><td id=\"0-1B\"></td><td id=\"0-1C\"></td><td id=\"0-1D\"></td></tr>\n<tr><td id=\"0-1E\">Apo E genotyping</td><td id=\"0-1F\"></td><td id=\"0-1G\"></td><td id=\"0-1H\"></td><td id=\"0-1I\"></td><td id=\"0-1J\">X</td><td id=\"0-1K\"></td><td id=\"0-1L\"></td><td id=\"0-1M\"></td><td id=\"0-1N\"></td></tr>\n<tr><td id=\"0-1O\">Patient randomized</td><td id=\"0-1P\"></td><td id=\"0-1Q\"></td><td id=\"0-1R\"></td><td id=\"0-1S\">X</td><td id=\"0-1T\"></td><td id=\"0-1U\"></td><td id=\"0-1V\"></td><td id=\"0-1W\"></td><td id=\"0-1X\"></td></tr>\n<tr><td id=\"0-1Y\">Vital signs/Temperature</td><td id=\"0-1Z\"></td><td id=\"0-20\">X</td><td id=\"0-21\">X</td><td id=\"0-22\">X</td><td id=\"0-23\">X</td><td id=\"0-24\">X</td><td id=\"0-25\"></td><td id=\"0-26\">X</td><td id=\"0-27\">X</td></tr>\n<tr><td id=\"0-28\">Ambulatory ECG placed</td><td id=\"0-29\"></td><td id=\"0-2a\"></td><td id=\"0-2b\">X</td><td id=\"0-2c\"></td><td id=\"0-2d\"></td><td id=\"0-2e\"></td><td id=\"0-2f\"></td><td id=\"0-2g\"></td><td id=\"0-2h\"></td></tr>\n<tr><td id=\"0-2i\">Ambulatory ECG removed</td><td id=\"0-2j\"></td><td id=\"0-2k\"></td><td id=\"0-2l\"></td><td id=\"0-2m\">X</td><td id=\"0-2n\"></td><td id=\"0-2o\"></td><td id=\"0-2p\"></td><td id=\"0-2q\"></td><td id=\"0-2r\"></td></tr>\n<tr><td id=\"0-2s\">ECG</td><td id=\"0-2t\"></td><td id=\"0-2u\">X</td><td id=\"0-2v\"></td><td id=\"0-2w\"></td><td id=\"0-2x\">X</td><td id=\"0-2y\">X</td><td id=\"0-2z\"></td><td id=\"0-2A\">X</td><td id=\"0-2B\">X</td></tr>\n<tr><td id=\"0-2C\">Placebo TTS test</td><td id=\"0-2D\"></td><td id=\"0-2E\">X</td><td id=\"0-2F\"></td><td id=\"0-2G\"></td><td id=\"0-2H\"></td><td id=\"0-2I\"></td><td id=\"0-2J\"></td><td id=\"0-2K\"></td><td id=\"0-2L\"></td></tr>\n<tr><td id=\"0-2M\">CT Scan (if not within\nlast year and patient passes\nall other screens)</td><td id=\"0-2N\"></td><td id=\"0-2O\">X</td><td id=\"0-2P\"></td><td id=\"0-2Q\"></td><td id=\"0-2R\"></td><td id=\"0-2S\"></td><td id=\"0-2T\"></td><td id=\"0-2U\"></td><td id=\"0-2V\"></td></tr>\n<tr><td id=\"0-2W\">Concomitant Medications</td><td id=\"0-2X\"></td><td id=\"0-2Y\">X</td><td id=\"0-2Z\"></td><td id=\"0-30\">X</td><td id=\"0-31\">X</td><td id=\"0-32\">X</td><td id=\"0-33\"></td><td id=\"0-34\">X</td><td id=\"0-35\">X</td></tr>\n<tr><td id=\"0-36\">Laboratory (Chem/Hemat):</td><td id=\"0-37\"></td><td id=\"0-38\">X</td><td id=\"0-39\"></td><td id=\"0-3a\"></td><td id=\"0-3b\">X</td><td id=\"0-3c\">X</td><td id=\"0-3d\"></td><td id=\"0-3e\">X</td><td id=\"0-3f\">X</td></tr>\n<tr><td id=\"0-3g\">Laboratory (Urinalysis)</td><td id=\"0-3h\"></td><td id=\"0-3i\">X</td><td id=\"0-3j\"></td><td id=\"0-3k\"></td><td id=\"0-3l\">X</td><td id=\"0-3m\"></td><td id=\"0-3n\"></td><td id=\"0-3o\"></td><td id=\"0-3p\"></td></tr>\n<tr><td id=\"0-3q\">Plasma Specimen (Xanomeline)</td><td id=\"0-3r\"></td><td id=\"0-3s\"></td><td id=\"0-3t\"></td><td id=\"0-3u\">X</td><td id=\"0-3v\">X</td><td id=\"0-3w\">X</td><td id=\"0-3x\"></td><td id=\"0-3y\">X</td><td id=\"0-3z\"></td></tr>\n<tr><td id=\"0-3A\">Hemoglobin A1c</td><td id=\"0-3B\"></td><td id=\"0-3C\">Xa</td><td id=\"0-3D\"></td><td id=\"0-3E\"></td><td id=\"0-3F\"></td><td id=\"0-3G\"></td><td id=\"0-3H\"></td><td id=\"0-3I\"></td><td id=\"0-3J\"></td></tr>\n<tr><td id=\"0-3K\">Study drug record Medications dispensed Medications returned</td><td id=\"0-3L\"></td><td id=\"0-3M\"></td><td id=\"0-3N\"></td><td id=\"0-3O\">X</td><td id=\"0-3P\">X</td><td id=\"0-3Q\">X</td><td id=\"0-3R\"></td><td id=\"0-3S\">X</td><td id=\"0-3T\">X</td></tr>\n<tr><td id=\"0-3U\">TTS Acceptability Survey</td><td id=\"0-3V\"></td><td id=\"0-3W\"></td><td id=\"0-3X\"></td><td id=\"0-3Y\"></td><td id=\"0-3Z\"></td><td id=\"0-40\"></td><td id=\"0-41\"></td><td id=\"0-42\"></td><td id=\"0-43\"></td></tr>\n<tr><td id=\"0-44\">ADAS-Cog</td><td id=\"0-45\"></td><td id=\"0-46\">P</td><td id=\"0-47\"></td><td id=\"0-48\">X</td><td id=\"0-49\"></td><td id=\"0-4a\"></td><td id=\"0-4b\"></td><td id=\"0-4c\"></td><td id=\"0-4d\">X</td></tr>\n<tr><td id=\"0-4e\">CIBIC+</td><td id=\"0-4f\"></td><td id=\"0-4g\">P</td><td id=\"0-4h\"></td><td id=\"0-4i\">X</td><td id=\"0-4j\"></td><td id=\"0-4k\"></td><td id=\"0-4l\"></td><td id=\"0-4m\"></td><td id=\"0-4n\">X</td></tr>\n<tr><td id=\"0-4o\">DAD</td><td id=\"0-4p\"></td><td id=\"0-4q\">P</td><td id=\"0-4r\"></td><td id=\"0-4s\">X</td><td id=\"0-4t\"></td><td id=\"0-4u\"></td><td id=\"0-4v\"></td><td id=\"0-4w\"></td><td id=\"0-4x\">X</td></tr>\n<tr><td id=\"0-4y\">NPI-X</td><td id=\"0-4z\"></td><td id=\"0-4A\">P</td><td id=\"0-4B\"></td><td id=\"0-4C\">X</td><td id=\"0-4D\">X</td><td id=\"0-4E\">X</td><td id=\"0-4F\"></td><td id=\"0-4G\">X</td><td id=\"0-4H\">Xb</td></tr>\n<tr><td id=\"0-4I\">Adverse events</td><td id=\"0-4J\"></td><td id=\"0-4K\">X</td><td id=\"0-4L\">X</td><td id=\"0-4M\">X</td><td id=\"0-4N\">X</td><td id=\"0-4O\">X</td><td id=\"0-4P\"></td><td id=\"0-4Q\">X</td><td id=\"0-4R\">X</td></tr>\n</table>",
+      "type": "table",
+      "id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485",
+      "grounding": {
+        "box": {
+          "left": 0.19160082936286926,
+          "top": 0.17613324522972107,
+          "right": 0.868332028388977,
+          "bottom": 0.788688063621521
+        },
+        "page": 0
+      }
+    },
+    {
+      "markdown": "<a id='1dfe9561-966d-4fa3-8890-aa071c71c207'></a>\n\nAbbreviations: CT = computed tomography; ECG = electrocardiogram\nX = Performed at this visit.\nXa = Performed at this visit if patient is an insulin-dependent diabetic.\nXb = Performed at this visit and via telephone interview 2 weeks following this visit.\nP = Practice only - It is recommended that a sampling of the CIBIC+, ADAS-Cog, DAD,\nand NPI-X be administered at Visit 1. Data from this sampling would not be\nconsidered as study data and would not be collected.",
+      "type": "text",
+      "id": "1dfe9561-966d-4fa3-8890-aa071c71c207",
+      "grounding": {
+        "box": {
+          "left": 0.20524850487709045,
+          "top": 0.7888421416282654,
+          "right": 0.8047072887420654,
+          "bottom": 0.9043968319892883
+        },
+        "page": 0
+      }
+    },
+    {
+      "markdown": "<a id='b9059dca-c55e-4355-8b9a-6c51ffde821a'></a>\n\nXanomeline (LY246708) H2Q-MC-LZZT(c) Clinical Study Protocol",
+      "type": "marginalia",
+      "id": "b9059dca-c55e-4355-8b9a-6c51ffde821a",
+      "grounding": {
+        "box": {
+          "left": 0.17047753930091858,
+          "top": 0.9287712574005127,
+          "right": 0.4287671148777008,
+          "bottom": 0.9589917659759521
+        },
+        "page": 0
+      }
+    },
+    {
+      "markdown": "<a id='fee602f3-25c2-4d58-98b8-0f4272c87fa7'></a>\n\nCopyright \u0016 2006 Eli Lilly and Company Document Page 53",
+      "type": "marginalia",
+      "id": "fee602f3-25c2-4d58-98b8-0f4272c87fa7",
+      "grounding": {
+        "box": {
+          "left": 0.6378315687179565,
+          "top": 0.9286052584648132,
+          "right": 0.8836590051651001,
+          "bottom": 0.9595896601676941
+        },
+        "page": 0
+      }
+    }
+  ],
+  "splits": [
+    {
+      "class": "page",
+      "identifier": "page_0",
+      "pages": [
+        0
+      ],
+      "markdown": "<a id='aec5846d-f678-44d7-bc88-3b34083d688e'></a>\n\nProtocol Attachment LZZT.1\nSchedule of Events for Protocol H2Q-MC-LZZT(c)\n\n<a id='d8c1d3e5-a84e-4df9-bc5f-706d65fc0485'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\">VISIT</td><td id=\"0-4\">1</td><td id=\"0-5\">2</td><td id=\"0-6\">3</td><td id=\"0-7\">4</td><td id=\"0-8\">5</td><td id=\"0-9\"></td><td id=\"0-a\">7</td><td id=\"0-b\">8</td></tr>\n<tr><td id=\"0-c\">ACTIVITY</td><td id=\"0-d\">WEEK</td><td id=\"0-e\">-2</td><td id=\"0-f\">-.3</td><td id=\"0-g\">0</td><td id=\"0-h\">2</td><td id=\"0-i\">4</td><td id=\"0-j\"></td><td id=\"0-k\">6</td><td id=\"0-l\">8</td></tr>\n<tr><td id=\"0-m\">Informed consent</td><td id=\"0-n\"></td><td id=\"0-o\">X</td><td id=\"0-p\"></td><td id=\"0-q\"></td><td id=\"0-r\"></td><td id=\"0-s\"></td><td id=\"0-t\"></td><td id=\"0-u\"></td><td id=\"0-v\"></td></tr>\n<tr><td id=\"0-w\">Patient number assigned</td><td id=\"0-x\"></td><td id=\"0-y\">X</td><td id=\"0-z\"></td><td id=\"0-A\"></td><td id=\"0-B\"></td><td id=\"0-C\"></td><td id=\"0-D\"></td><td id=\"0-E\"></td><td id=\"0-F\"></td></tr>\n<tr><td id=\"0-G\">Hachinski ≤4</td><td id=\"0-H\"></td><td id=\"0-I\">X</td><td id=\"0-J\"></td><td id=\"0-K\"></td><td id=\"0-L\"></td><td id=\"0-M\"></td><td id=\"0-N\"></td><td id=\"0-O\"></td><td id=\"0-P\"></td></tr>\n<tr><td id=\"0-Q\">MMSE 10-23</td><td id=\"0-R\"></td><td id=\"0-S\">X</td><td id=\"0-T\"></td><td id=\"0-U\"></td><td id=\"0-V\"></td><td id=\"0-W\"></td><td id=\"0-X\"></td><td id=\"0-Y\"></td><td id=\"0-Z\"></td></tr>\n<tr><td id=\"0-10\">Physical examination</td><td id=\"0-11\"></td><td id=\"0-12\">X</td><td id=\"0-13\"></td><td id=\"0-14\"></td><td id=\"0-15\"></td><td id=\"0-16\"></td><td id=\"0-17\"></td><td id=\"0-18\"></td><td id=\"0-19\"></td></tr>\n<tr><td id=\"0-1a\">Medical History</td><td id=\"0-1b\"></td><td id=\"0-1c\">X</td><td id=\"0-1d\"></td><td id=\"0-1e\"></td><td id=\"0-1f\"></td><td id=\"0-1g\"></td><td id=\"0-1h\"></td><td id=\"0-1i\"></td><td id=\"0-1j\"></td></tr>\n<tr><td id=\"0-1k\">Habits</td><td id=\"0-1l\"></td><td id=\"0-1m\">X</td><td id=\"0-1n\"></td><td id=\"0-1o\"></td><td id=\"0-1p\"></td><td id=\"0-1q\"></td><td id=\"0-1r\"></td><td id=\"0-1s\"></td><td id=\"0-1t\"></td></tr>\n<tr><td id=\"0-1u\">Chest x-ray</td><td id=\"0-1v\"></td><td id=\"0-1w\">X</td><td id=\"0-1x\"></td><td id=\"0-1y\"></td><td id=\"0-1z\"></td><td id=\"0-1A\"></td><td id=\"0-1B\"></td><td id=\"0-1C\"></td><td id=\"0-1D\"></td></tr>\n<tr><td id=\"0-1E\">Apo E genotyping</td><td id=\"0-1F\"></td><td id=\"0-1G\"></td><td id=\"0-1H\"></td><td id=\"0-1I\"></td><td id=\"0-1J\">X</td><td id=\"0-1K\"></td><td id=\"0-1L\"></td><td id=\"0-1M\"></td><td id=\"0-1N\"></td></tr>\n<tr><td id=\"0-1O\">Patient randomized</td><td id=\"0-1P\"></td><td id=\"0-1Q\"></td><td id=\"0-1R\"></td><td id=\"0-1S\">X</td><td id=\"0-1T\"></td><td id=\"0-1U\"></td><td id=\"0-1V\"></td><td id=\"0-1W\"></td><td id=\"0-1X\"></td></tr>\n<tr><td id=\"0-1Y\">Vital signs/Temperature</td><td id=\"0-1Z\"></td><td id=\"0-20\">X</td><td id=\"0-21\">X</td><td id=\"0-22\">X</td><td id=\"0-23\">X</td><td id=\"0-24\">X</td><td id=\"0-25\"></td><td id=\"0-26\">X</td><td id=\"0-27\">X</td></tr>\n<tr><td id=\"0-28\">Ambulatory ECG placed</td><td id=\"0-29\"></td><td id=\"0-2a\"></td><td id=\"0-2b\">X</td><td id=\"0-2c\"></td><td id=\"0-2d\"></td><td id=\"0-2e\"></td><td id=\"0-2f\"></td><td id=\"0-2g\"></td><td id=\"0-2h\"></td></tr>\n<tr><td id=\"0-2i\">Ambulatory ECG removed</td><td id=\"0-2j\"></td><td id=\"0-2k\"></td><td id=\"0-2l\"></td><td id=\"0-2m\">X</td><td id=\"0-2n\"></td><td id=\"0-2o\"></td><td id=\"0-2p\"></td><td id=\"0-2q\"></td><td id=\"0-2r\"></td></tr>\n<tr><td id=\"0-2s\">ECG</td><td id=\"0-2t\"></td><td id=\"0-2u\">X</td><td id=\"0-2v\"></td><td id=\"0-2w\"></td><td id=\"0-2x\">X</td><td id=\"0-2y\">X</td><td id=\"0-2z\"></td><td id=\"0-2A\">X</td><td id=\"0-2B\">X</td></tr>\n<tr><td id=\"0-2C\">Placebo TTS test</td><td id=\"0-2D\"></td><td id=\"0-2E\">X</td><td id=\"0-2F\"></td><td id=\"0-2G\"></td><td id=\"0-2H\"></td><td id=\"0-2I\"></td><td id=\"0-2J\"></td><td id=\"0-2K\"></td><td id=\"0-2L\"></td></tr>\n<tr><td id=\"0-2M\">CT Scan (if not within\nlast year and patient passes\nall other screens)</td><td id=\"0-2N\"></td><td id=\"0-2O\">X</td><td id=\"0-2P\"></td><td id=\"0-2Q\"></td><td id=\"0-2R\"></td><td id=\"0-2S\"></td><td id=\"0-2T\"></td><td id=\"0-2U\"></td><td id=\"0-2V\"></td></tr>\n<tr><td id=\"0-2W\">Concomitant Medications</td><td id=\"0-2X\"></td><td id=\"0-2Y\">X</td><td id=\"0-2Z\"></td><td id=\"0-30\">X</td><td id=\"0-31\">X</td><td id=\"0-32\">X</td><td id=\"0-33\"></td><td id=\"0-34\">X</td><td id=\"0-35\">X</td></tr>\n<tr><td id=\"0-36\">Laboratory (Chem/Hemat):</td><td id=\"0-37\"></td><td id=\"0-38\">X</td><td id=\"0-39\"></td><td id=\"0-3a\"></td><td id=\"0-3b\">X</td><td id=\"0-3c\">X</td><td id=\"0-3d\"></td><td id=\"0-3e\">X</td><td id=\"0-3f\">X</td></tr>\n<tr><td id=\"0-3g\">Laboratory (Urinalysis)</td><td id=\"0-3h\"></td><td id=\"0-3i\">X</td><td id=\"0-3j\"></td><td id=\"0-3k\"></td><td id=\"0-3l\">X</td><td id=\"0-3m\"></td><td id=\"0-3n\"></td><td id=\"0-3o\"></td><td id=\"0-3p\"></td></tr>\n<tr><td id=\"0-3q\">Plasma Specimen (Xanomeline)</td><td id=\"0-3r\"></td><td id=\"0-3s\"></td><td id=\"0-3t\"></td><td id=\"0-3u\">X</td><td id=\"0-3v\">X</td><td id=\"0-3w\">X</td><td id=\"0-3x\"></td><td id=\"0-3y\">X</td><td id=\"0-3z\"></td></tr>\n<tr><td id=\"0-3A\">Hemoglobin A1c</td><td id=\"0-3B\"></td><td id=\"0-3C\">Xa</td><td id=\"0-3D\"></td><td id=\"0-3E\"></td><td id=\"0-3F\"></td><td id=\"0-3G\"></td><td id=\"0-3H\"></td><td id=\"0-3I\"></td><td id=\"0-3J\"></td></tr>\n<tr><td id=\"0-3K\">Study drug record Medications dispensed Medications returned</td><td id=\"0-3L\"></td><td id=\"0-3M\"></td><td id=\"0-3N\"></td><td id=\"0-3O\">X</td><td id=\"0-3P\">X</td><td id=\"0-3Q\">X</td><td id=\"0-3R\"></td><td id=\"0-3S\">X</td><td id=\"0-3T\">X</td></tr>\n<tr><td id=\"0-3U\">TTS Acceptability Survey</td><td id=\"0-3V\"></td><td id=\"0-3W\"></td><td id=\"0-3X\"></td><td id=\"0-3Y\"></td><td id=\"0-3Z\"></td><td id=\"0-40\"></td><td id=\"0-41\"></td><td id=\"0-42\"></td><td id=\"0-43\"></td></tr>\n<tr><td id=\"0-44\">ADAS-Cog</td><td id=\"0-45\"></td><td id=\"0-46\">P</td><td id=\"0-47\"></td><td id=\"0-48\">X</td><td id=\"0-49\"></td><td id=\"0-4a\"></td><td id=\"0-4b\"></td><td id=\"0-4c\"></td><td id=\"0-4d\">X</td></tr>\n<tr><td id=\"0-4e\">CIBIC+</td><td id=\"0-4f\"></td><td id=\"0-4g\">P</td><td id=\"0-4h\"></td><td id=\"0-4i\">X</td><td id=\"0-4j\"></td><td id=\"0-4k\"></td><td id=\"0-4l\"></td><td id=\"0-4m\"></td><td id=\"0-4n\">X</td></tr>\n<tr><td id=\"0-4o\">DAD</td><td id=\"0-4p\"></td><td id=\"0-4q\">P</td><td id=\"0-4r\"></td><td id=\"0-4s\">X</td><td id=\"0-4t\"></td><td id=\"0-4u\"></td><td id=\"0-4v\"></td><td id=\"0-4w\"></td><td id=\"0-4x\">X</td></tr>\n<tr><td id=\"0-4y\">NPI-X</td><td id=\"0-4z\"></td><td id=\"0-4A\">P</td><td id=\"0-4B\"></td><td id=\"0-4C\">X</td><td id=\"0-4D\">X</td><td id=\"0-4E\">X</td><td id=\"0-4F\"></td><td id=\"0-4G\">X</td><td id=\"0-4H\">Xb</td></tr>\n<tr><td id=\"0-4I\">Adverse events</td><td id=\"0-4J\"></td><td id=\"0-4K\">X</td><td id=\"0-4L\">X</td><td id=\"0-4M\">X</td><td id=\"0-4N\">X</td><td id=\"0-4O\">X</td><td id=\"0-4P\"></td><td id=\"0-4Q\">X</td><td id=\"0-4R\">X</td></tr>\n</table>\n\n<a id='1dfe9561-966d-4fa3-8890-aa071c71c207'></a>\n\nAbbreviations: CT = computed tomography; ECG = electrocardiogram\nX = Performed at this visit.\nXa = Performed at this visit if patient is an insulin-dependent diabetic.\nXb = Performed at this visit and via telephone interview 2 weeks following this visit.\nP = Practice only - It is recommended that a sampling of the CIBIC+, ADAS-Cog, DAD,\nand NPI-X be administered at Visit 1. Data from this sampling would not be\nconsidered as study data and would not be collected.\n\n<a id='b9059dca-c55e-4355-8b9a-6c51ffde821a'></a>\n\nXanomeline (LY246708) H2Q-MC-LZZT(c) Clinical Study Protocol\n\n<a id='fee602f3-25c2-4d58-98b8-0f4272c87fa7'></a>\n\nCopyright \u0016 2006 Eli Lilly and Company Document Page 53",
+      "chunks": [
+        "aec5846d-f678-44d7-bc88-3b34083d688e",
+        "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485",
+        "1dfe9561-966d-4fa3-8890-aa071c71c207",
+        "b9059dca-c55e-4355-8b9a-6c51ffde821a",
+        "fee602f3-25c2-4d58-98b8-0f4272c87fa7"
+      ]
+    }
+  ],
+  "grounding": {
+    "aec5846d-f678-44d7-bc88-3b34083d688e": {
+      "box": {
+        "left": 0.2137344777584076,
+        "top": 0.09008801728487015,
+        "right": 0.8450392484664917,
+        "bottom": 0.14418964087963104
+      },
+      "page": 0,
+      "type": "chunkText",
+      "confidence": 0.992,
+      "low_confidence_spans": []
+    },
+    "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485": {
+      "box": {
+        "left": 0.19160082936286926,
+        "top": 0.17613324522972107,
+        "right": 0.868332028388977,
+        "bottom": 0.788688063621521
+      },
+      "page": 0,
+      "type": "chunkTable",
+      "confidence": 0.247,
+      "low_confidence_spans": []
+    },
+    "0-1": {
+      "box": {
+        "left": 0.19858610545452657,
+        "top": 0.18214393045822364,
+        "right": 0.8610994837062016,
+        "bottom": 0.7864326626779725
+      },
+      "page": 0,
+      "type": "table",
+      "confidence": null,
+      "low_confidence_spans": []
+    },
+    "0-2": {
+      "box": {
+        "left": 0.19858610545452657,
+        "top": 0.18214641740404186,
+        "right": 0.3895689802837351,
+        "bottom": 0.19986280066778495
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.998,
+      "position": {
+        "row": 0,
+        "col": 0,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-3": {
+      "box": {
+        "left": 0.3895677297622806,
+        "top": 0.18214610394537734,
+        "right": 0.4490014459242225,
+        "bottom": 0.1998594484514955
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.998,
+      "position": {
+        "row": 0,
+        "col": 1,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-4": {
+      "box": {
+        "left": 0.4489988870920578,
+        "top": 0.18214583205029145,
+        "right": 0.5005533638572742,
+        "bottom": 0.1998584052766656
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 0,
+        "col": 2,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-5": {
+      "box": {
+        "left": 0.50055026953518,
+        "top": 0.18214556031763393,
+        "right": 0.5520744850079955,
+        "bottom": 0.1998575004128361
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 0,
+        "col": 3,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-6": {
+      "box": {
+        "left": 0.5520699247572675,
+        "top": 0.18214528885356293,
+        "right": 0.6035446815512253,
+        "bottom": 0.1998565961059037
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 0,
+        "col": 4,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-7": {
+      "box": {
+        "left": 0.6035418405584627,
+        "top": 0.18214501734779454,
+        "right": 0.6550227840137155,
+        "bottom": 0.19985569263692507
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 0,
+        "col": 5,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-8": {
+      "box": {
+        "left": 0.6550195424011627,
+        "top": 0.18214474558545954,
+        "right": 0.7065495320814686,
+        "bottom": 0.199854789066386
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 0,
+        "col": 6,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-9": {
+      "box": {
+        "left": 0.706545169964784,
+        "top": 0.18214447430966504,
+        "right": 0.7579840309791359,
+        "bottom": 0.19985388465462314
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.976,
+      "position": {
+        "row": 0,
+        "col": 7,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-a": {
+      "box": {
+        "left": 0.7579813949326818,
+        "top": 0.18214420289792854,
+        "right": 0.8094443047869114,
+        "bottom": 0.19985298181211353
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 0,
+        "col": 8,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-b": {
+      "box": {
+        "left": 0.8094431251291955,
+        "top": 0.18214393045822364,
+        "right": 0.8610994837062017,
+        "bottom": 0.19985207852191933
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 0,
+        "col": 9,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-c": {
+      "box": {
+        "left": 0.19858718845216752,
+        "top": 0.1998594484514955,
+        "right": 0.3895677297622806,
+        "bottom": 0.21709609818445091
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 1,
+        "col": 0,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-d": {
+      "box": {
+        "left": 0.38956651408179277,
+        "top": 0.1998584052766656,
+        "right": 0.4489988870920578,
+        "bottom": 0.21707897407249033
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 1,
+        "col": 1,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-e": {
+      "box": {
+        "left": 0.44899640006854735,
+        "top": 0.1998575004128361,
+        "right": 0.50055026953518,
+        "bottom": 0.21707364527770007
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.964,
+      "position": {
+        "row": 1,
+        "col": 2,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-f": {
+      "box": {
+        "left": 0.5005472625912043,
+        "top": 0.1998565961059037,
+        "right": 0.5520699247572675,
+        "bottom": 0.21706902295741312
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.961,
+      "position": {
+        "row": 1,
+        "col": 3,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-g": {
+      "box": {
+        "left": 0.5520654940781463,
+        "top": 0.19985569263692507,
+        "right": 0.6035418405584627,
+        "bottom": 0.21706440356299575
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 1,
+        "col": 4,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-h": {
+      "box": {
+        "left": 0.6035390807845186,
+        "top": 0.199854789066386,
+        "right": 0.6550195424011627,
+        "bottom": 0.2170597881716632
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 1,
+        "col": 5,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-i": {
+      "box": {
+        "left": 0.6550163940275098,
+        "top": 0.19985388465462314,
+        "right": 0.706545169964784,
+        "bottom": 0.21705517244618983
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 1,
+        "col": 6,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-j": {
+      "box": {
+        "left": 0.7065409340800594,
+        "top": 0.19985298181211353,
+        "right": 0.7579813949326818,
+        "bottom": 0.21705055248611343
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.993,
+      "position": {
+        "row": 1,
+        "col": 7,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-k": {
+      "box": {
+        "left": 0.7579788356296325,
+        "top": 0.19985207852191933,
+        "right": 0.8094431251291955,
+        "bottom": 0.2170459402944989
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 1,
+        "col": 8,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-l": {
+      "box": {
+        "left": 0.8094419800212976,
+        "top": 0.19985117187966936,
+        "right": 0.8610958267225012,
+        "bottom": 0.21704132583947894
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 1,
+        "col": 9,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-m": {
+      "box": {
+        "left": 0.19858824197880875,
+        "top": 0.21707897407249033,
+        "right": 0.38956651408179277,
+        "bottom": 0.23449446427009224
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.996,
+      "position": {
+        "row": 2,
+        "col": 0,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-n": {
+      "box": {
+        "left": 0.389565284566411,
+        "top": 0.21707364527770007,
+        "right": 0.44899640006854735,
+        "bottom": 0.23450698609910614
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.971,
+      "position": {
+        "row": 2,
+        "col": 1,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-o": {
+      "box": {
+        "left": 0.4489938815367995,
+        "top": 0.21706902295741312,
+        "right": 0.5005472625912043,
+        "bottom": 0.234517847948182
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 2,
+        "col": 2,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-p": {
+      "box": {
+        "left": 0.5005442141892367,
+        "top": 0.21706440356299575,
+        "right": 0.5520654940781463,
+        "bottom": 0.23452870272825527
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.978,
+      "position": {
+        "row": 2,
+        "col": 3,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-q": {
+      "box": {
+        "left": 0.5520609973573485,
+        "top": 0.2170597881716632,
+        "right": 0.6035390807845186,
+        "bottom": 0.23453954876333533
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.993,
+      "position": {
+        "row": 2,
+        "col": 4,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-r": {
+      "box": {
+        "left": 0.6035362767901014,
+        "top": 0.21705517244618983,
+        "right": 0.6550163940275098,
+        "bottom": 0.23455039514301368
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.981,
+      "position": {
+        "row": 2,
+        "col": 5,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-s": {
+      "box": {
+        "left": 0.6550131916862029,
+        "top": 0.21705055248611343,
+        "right": 0.7065409340800594,
+        "bottom": 0.23456125132342182
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.998,
+      "position": {
+        "row": 2,
+        "col": 6,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-t": {
+      "box": {
+        "left": 0.7065366208431899,
+        "top": 0.2170459402944989,
+        "right": 0.7579788356296325,
+        "bottom": 0.2345720898419512
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.998,
+      "position": {
+        "row": 2,
+        "col": 7,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-u": {
+      "box": {
+        "left": 0.7579762267285513,
+        "top": 0.21704132583947894,
+        "right": 0.8094419800212976,
+        "bottom": 0.2345829336236132
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.985,
+      "position": {
+        "row": 2,
+        "col": 8,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-v": {
+      "box": {
+        "left": 0.8094408114399605,
+        "top": 0.21703669460333436,
+        "right": 0.8610922774866271,
+        "bottom": 0.23459381601786816
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.968,
+      "position": {
+        "row": 2,
+        "col": 9,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-w": {
+      "box": {
+        "left": 0.19858930313665923,
+        "top": 0.2344542249121546,
+        "right": 0.389565284566411,
+        "bottom": 0.2520659872659078
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.995,
+      "position": {
+        "row": 3,
+        "col": 0,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-x": {
+      "box": {
+        "left": 0.3895640440352769,
+        "top": 0.23449446427009224,
+        "right": 0.4489938815367995,
+        "bottom": 0.2520701646955433
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.975,
+      "position": {
+        "row": 3,
+        "col": 1,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-y": {
+      "box": {
+        "left": 0.4489913442478575,
+        "top": 0.23450698609910614,
+        "right": 0.5005442141892367,
+        "bottom": 0.25207378837814803
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 3,
+        "col": 2,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-z": {
+      "box": {
+        "left": 0.5005411470736355,
+        "top": 0.234517847948182,
+        "right": 0.5520609973573485,
+        "bottom": 0.2520774096376213
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.982,
+      "position": {
+        "row": 3,
+        "col": 3,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-A": {
+      "box": {
+        "left": 0.5520564789031818,
+        "top": 0.23452870272825527,
+        "right": 0.6035362767901014,
+        "bottom": 0.2520810282014414
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.971,
+      "position": {
+        "row": 3,
+        "col": 4,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-B": {
+      "box": {
+        "left": 0.603533462895131,
+        "top": 0.23453954876333533,
+        "right": 0.6550131916862029,
+        "bottom": 0.2520846467325964
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.984,
+      "position": {
+        "row": 3,
+        "col": 5,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-C": {
+      "box": {
+        "left": 0.6550099822010123,
+        "top": 0.23455039514301368,
+        "right": 0.7065366208431899,
+        "bottom": 0.2520882684833991
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.993,
+      "position": {
+        "row": 3,
+        "col": 6,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-D": {
+      "box": {
+        "left": 0.7065323035867899,
+        "top": 0.23456125132342182,
+        "right": 0.7579762267285513,
+        "bottom": 0.25209188453988796
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.966,
+      "position": {
+        "row": 3,
+        "col": 7,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-E": {
+      "box": {
+        "left": 0.7579736187734378,
+        "top": 0.2345720898419512,
+        "right": 0.8094408114399605,
+        "bottom": 0.25209550233341965
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.982,
+      "position": {
+        "row": 3,
+        "col": 8,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-F": {
+      "box": {
+        "left": 0.8094396447931395,
+        "top": 0.2345829336236132,
+        "right": 0.8610886515064241,
+        "bottom": 0.2520991327354055
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.979,
+      "position": {
+        "row": 3,
+        "col": 9,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-G": {
+      "box": {
+        "left": 0.19859037897938758,
+        "top": 0.25205256281207683,
+        "right": 0.3895640440352769,
+        "bottom": 0.2693126752794265
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.973,
+      "position": {
+        "row": 4,
+        "col": 0,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-H": {
+      "box": {
+        "left": 0.3895628264371527,
+        "top": 0.2520659872659078,
+        "right": 0.4489913442478575,
+        "bottom": 0.2693169599072647
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.99,
+      "position": {
+        "row": 4,
+        "col": 1,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-I": {
+      "box": {
+        "left": 0.4489888526656797,
+        "top": 0.2520701646955433,
+        "right": 0.5005411470736355,
+        "bottom": 0.26932067662028847
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 4,
+        "col": 2,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-J": {
+      "box": {
+        "left": 0.5005381339510854,
+        "top": 0.25207378837814803,
+        "right": 0.5520564789031818,
+        "bottom": 0.2693243907826167
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.99,
+      "position": {
+        "row": 4,
+        "col": 3,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-K": {
+      "box": {
+        "left": 0.5520520381375902,
+        "top": 0.2520774096376213,
+        "right": 0.603533462895131,
+        "bottom": 0.26932810240369454
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.99,
+      "position": {
+        "row": 4,
+        "col": 4,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-L": {
+      "box": {
+        "left": 0.6035306962268165,
+        "top": 0.2520810282014414,
+        "right": 0.6550099822010123,
+        "bottom": 0.26933181384242727
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.982,
+      "position": {
+        "row": 4,
+        "col": 5,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-M": {
+      "box": {
+        "left": 0.6550068252640233,
+        "top": 0.2520846467325964,
+        "right": 0.7065323035867899,
+        "bottom": 0.26933552853294634
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.963,
+      "position": {
+        "row": 4,
+        "col": 6,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-N": {
+      "box": {
+        "left": 0.7065280552401857,
+        "top": 0.2520882684833991,
+        "right": 0.7579736187734378,
+        "bottom": 0.2693392375827903
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.974,
+      "position": {
+        "row": 4,
+        "col": 7,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-O": {
+      "box": {
+        "left": 0.7579710513733434,
+        "top": 0.25209188453988796,
+        "right": 0.8094396447931395,
+        "bottom": 0.26934294839536155
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.999,
+      "position": {
+        "row": 4,
+        "col": 8,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-P": {
+      "box": {
+        "left": 0.8094384958081758,
+        "top": 0.25209550233341965,
+        "right": 0.8610850362251737,
+        "bottom": 0.26934667186396327
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.964,
+      "position": {
+        "row": 4,
+        "col": 9,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-Q": {
+      "box": {
+        "left": 0.19859143330356502,
+        "top": 0.2692989062055164,
+        "right": 0.3895628264371527,
+        "bottom": 0.2867669363678383
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.982,
+      "position": {
+        "row": 5,
+        "col": 0,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-R": {
+      "box": {
+        "left": 0.38956159418458647,
+        "top": 0.2693126752794265,
+        "right": 0.4489888526656797,
+        "bottom": 0.28677021140319703
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.99,
+      "position": {
+        "row": 5,
+        "col": 1,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-S": {
+      "box": {
+        "left": 0.4489863312575087,
+        "top": 0.2693169599072647,
+        "right": 0.5005381339510854,
+        "bottom": 0.2867730523748073
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 5,
+        "col": 2,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-T": {
+      "box": {
+        "left": 0.5005350849287806,
+        "top": 0.26932067662028847,
+        "right": 0.5520520381375902,
+        "bottom": 0.2867758913461771
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.996,
+      "position": {
+        "row": 5,
+        "col": 3,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-U": {
+      "box": {
+        "left": 0.5520475447121858,
+        "top": 0.2693243907826167,
+        "right": 0.6035306962268165,
+        "bottom": 0.286778728548023
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.978,
+      "position": {
+        "row": 5,
+        "col": 4,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-V": {
+      "box": {
+        "left": 0.6035278969059661,
+        "top": 0.26932810240369454,
+        "right": 0.6550068252640233,
+        "bottom": 0.28678156549536826
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.973,
+      "position": {
+        "row": 5,
+        "col": 5,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-W": {
+      "box": {
+        "left": 0.6550036312457772,
+        "top": 0.26933181384242727,
+        "right": 0.7065280552401857,
+        "bottom": 0.28678440488924023
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.964,
+      "position": {
+        "row": 5,
+        "col": 6,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-X": {
+      "box": {
+        "left": 0.7065237572314351,
+        "top": 0.26933552853294634,
+        "right": 0.7579710513733434,
+        "bottom": 0.28678724012603857
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.977,
+      "position": {
+        "row": 5,
+        "col": 7,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-Y": {
+      "box": {
+        "left": 0.7579684541050401,
+        "top": 0.2693392375827903,
+        "right": 0.8094384958081758,
+        "bottom": 0.28679007669559303
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.983,
+      "position": {
+        "row": 5,
+        "col": 8,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-Z": {
+      "box": {
+        "left": 0.8094373335208435,
+        "top": 0.26934294839536155,
+        "right": 0.8610814741813767,
+        "bottom": 0.28679292272562773
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.994,
+      "position": {
+        "row": 5,
+        "col": 9,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-10": {
+      "box": {
+        "left": 0.19859250053675256,
+        "top": 0.28675641161728943,
+        "right": 0.38956159418458647,
+        "bottom": 0.3043264077662192
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.967,
+      "position": {
+        "row": 6,
+        "col": 0,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-11": {
+      "box": {
+        "left": 0.38956035461220806,
+        "top": 0.2867669363678383,
+        "right": 0.4489863312575087,
+        "bottom": 0.3043248790537749
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.983,
+      "position": {
+        "row": 6,
+        "col": 1,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-12": {
+      "box": {
+        "left": 0.4489837952668338,
+        "top": 0.28677021140319703,
+        "right": 0.5005350849287806,
+        "bottom": 0.3043244033618602
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 6,
+        "col": 2,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-13": {
+      "box": {
+        "left": 0.5005320186870714,
+        "top": 0.2867730523748073,
+        "right": 0.5520475447121858,
+        "bottom": 0.3043239907120232
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.982,
+      "position": {
+        "row": 6,
+        "col": 3,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-14": {
+      "box": {
+        "left": 0.5520430265206224,
+        "top": 0.2867758913461771,
+        "right": 0.6035278969059661,
+        "bottom": 0.3043235783601015
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.967,
+      "position": {
+        "row": 6,
+        "col": 4,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-15": {
+      "box": {
+        "left": 0.603525082536451,
+        "top": 0.286778728548023,
+        "right": 0.6550036312457772,
+        "bottom": 0.3043231662399427
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.971,
+      "position": {
+        "row": 6,
+        "col": 5,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-16": {
+      "box": {
+        "left": 0.6550004204908159,
+        "top": 0.28678156549536826,
+        "right": 0.7065237572314351,
+        "bottom": 0.3043227541735627
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.986,
+      "position": {
+        "row": 6,
+        "col": 6,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-17": {
+      "box": {
+        "left": 0.7065194372852915,
+        "top": 0.28678440488924023,
+        "right": 0.7579684541050401,
+        "bottom": 0.30432234175752837
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.991,
+      "position": {
+        "row": 6,
+        "col": 7,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-18": {
+      "box": {
+        "left": 0.7579658439326775,
+        "top": 0.28678724012603857,
+        "right": 0.8094373335208435,
+        "bottom": 0.3043219299227471
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.979,
+      "position": {
+        "row": 6,
+        "col": 8,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-19": {
+      "box": {
+        "left": 0.8094361656167807,
+        "top": 0.28679007669559303,
+        "right": 0.8610778710986876,
+        "bottom": 0.30432151789652306
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.966,
+      "position": {
+        "row": 6,
+        "col": 9,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-1a": {
+      "box": {
+        "left": 0.19859357464685895,
+        "top": 0.3043248790537749,
+        "right": 0.38956035461220806,
+        "bottom": 0.3216201079516124
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.977,
+      "position": {
+        "row": 7,
+        "col": 0,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-1b": {
+      "box": {
+        "left": 0.3895591335871481,
+        "top": 0.3043244033618602,
+        "right": 0.4489837952668338,
+        "bottom": 0.3216246330995215
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.985,
+      "position": {
+        "row": 7,
+        "col": 1,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-1c": {
+      "box": {
+        "left": 0.4489812959651632,
+        "top": 0.3043239907120232,
+        "right": 0.5005320186870714,
+        "bottom": 0.3216285585871742
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 7,
+        "col": 2,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-1d": {
+      "box": {
+        "left": 0.5005289954875844,
+        "top": 0.3043235783601015,
+        "right": 0.5520430265206224,
+        "bottom": 0.3216324811714967
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.973,
+      "position": {
+        "row": 7,
+        "col": 3,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-1e": {
+      "box": {
+        "left": 0.5520385698113939,
+        "top": 0.3043231662399427,
+        "right": 0.603525082536451,
+        "bottom": 0.3216364017881231
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.983,
+      "position": {
+        "row": 7,
+        "col": 4,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-1f": {
+      "box": {
+        "left": 0.6035223052549451,
+        "top": 0.3043227541735627,
+        "right": 0.6550004204908159,
+        "bottom": 0.3216403217353664
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.964,
+      "position": {
+        "row": 7,
+        "col": 5,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-1g": {
+      "box": {
+        "left": 0.6549972506676647,
+        "top": 0.30432234175752837,
+        "right": 0.7065194372852915,
+        "bottom": 0.3216442449552244
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.973,
+      "position": {
+        "row": 7,
+        "col": 6,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-1h": {
+      "box": {
+        "left": 0.7065151705525806,
+        "top": 0.3043219299227471,
+        "right": 0.7579658439326775,
+        "bottom": 0.32164816285768294
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.972,
+      "position": {
+        "row": 7,
+        "col": 7,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-1i": {
+      "box": {
+        "left": 0.7579632647907094,
+        "top": 0.30432151789652306,
+        "right": 0.8094361656167807,
+        "bottom": 0.32165208256130595
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.963,
+      "position": {
+        "row": 7,
+        "col": 8,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-1j": {
+      "box": {
+        "left": 0.8094350110946479,
+        "top": 0.3043211045273293,
+        "right": 0.8610742510952312,
+        "bottom": 0.3216560147473648
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.968,
+      "position": {
+        "row": 7,
+        "col": 9,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-1k": {
+      "box": {
+        "left": 0.19859463097708338,
+        "top": 0.32160556552190067,
+        "right": 0.3895591335871481,
+        "bottom": 0.33906530723929507
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.982,
+      "position": {
+        "row": 8,
+        "col": 0,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-1l": {
+      "box": {
+        "left": 0.38955790215786285,
+        "top": 0.3216201079516124,
+        "right": 0.4489812959651632,
+        "bottom": 0.33906270766457114
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.994,
+      "position": {
+        "row": 8,
+        "col": 1,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-1m": {
+      "box": {
+        "left": 0.4489787768664071,
+        "top": 0.3216246330995215,
+        "right": 0.5005289954875844,
+        "bottom": 0.339061898766261
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 8,
+        "col": 2,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-1n": {
+      "box": {
+        "left": 0.5005259499134884,
+        "top": 0.3216285585871742,
+        "right": 0.5520385698113939,
+        "bottom": 0.339061197052909
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.998,
+      "position": {
+        "row": 8,
+        "col": 3,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-1o": {
+      "box": {
+        "left": 0.5520340824331473,
+        "top": 0.3216324811714967,
+        "right": 0.6035223052549451,
+        "bottom": 0.33906049587101694
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.972,
+      "position": {
+        "row": 8,
+        "col": 4,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-1p": {
+      "box": {
+        "left": 0.6035195103026325,
+        "top": 0.3216364017881231,
+        "right": 0.6549972506676647,
+        "bottom": 0.33905979499820404
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.994,
+      "position": {
+        "row": 8,
+        "col": 5,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-1q": {
+      "box": {
+        "left": 0.6549940623198638,
+        "top": 0.3216403217353664,
+        "right": 0.7065151705525806,
+        "bottom": 0.3390590942734445
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.965,
+      "position": {
+        "row": 8,
+        "col": 6,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-1r": {
+      "box": {
+        "left": 0.7065108810981173,
+        "top": 0.3216442449552244,
+        "right": 0.7579632647907094,
+        "bottom": 0.3390583929733061
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.978,
+      "position": {
+        "row": 8,
+        "col": 7,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-1s": {
+      "box": {
+        "left": 0.7579606732493781,
+        "top": 0.32164816285768294,
+        "right": 0.8094350110946479,
+        "bottom": 0.3390576925856035
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.973,
+      "position": {
+        "row": 8,
+        "col": 8,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-1t": {
+      "box": {
+        "left": 0.8094338516198465,
+        "top": 0.32165208256130595,
+        "right": 0.861070671007141,
+        "bottom": 0.3390569918795434
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.981,
+      "position": {
+        "row": 8,
+        "col": 9,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-1u": {
+      "box": {
+        "left": 0.19859569834698346,
+        "top": 0.33906270766457114,
+        "right": 0.38955790215786285,
+        "bottom": 0.3564195423531266
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.967,
+      "position": {
+        "row": 9,
+        "col": 0,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-1v": {
+      "box": {
+        "left": 0.3895566767834986,
+        "top": 0.339061898766261,
+        "right": 0.4489787768664071,
+        "bottom": 0.3564227664372752
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.962,
+      "position": {
+        "row": 9,
+        "col": 1,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-1w": {
+      "box": {
+        "left": 0.4489762688045934,
+        "top": 0.339061197052909,
+        "right": 0.5005259499134884,
+        "bottom": 0.3564255633384882
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 9,
+        "col": 2,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-1x": {
+      "box": {
+        "left": 0.500522916266903,
+        "top": 0.33906049587101694,
+        "right": 0.5520340824331473,
+        "bottom": 0.3564283580718567
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.968,
+      "position": {
+        "row": 9,
+        "col": 3,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-1y": {
+      "box": {
+        "left": 0.5520296105430111,
+        "top": 0.33905979499820404,
+        "right": 0.6035195103026325,
+        "bottom": 0.3564311517427611
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.991,
+      "position": {
+        "row": 9,
+        "col": 4,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-1z": {
+      "box": {
+        "left": 0.6035167236976859,
+        "top": 0.3390590942734445,
+        "right": 0.6549940623198638,
+        "bottom": 0.3564339447107408
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.972,
+      "position": {
+        "row": 9,
+        "col": 5,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-1A": {
+      "box": {
+        "left": 0.6549908820116036,
+        "top": 0.3390583929733061,
+        "right": 0.7065108810981173,
+        "bottom": 0.3564367399337575
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.993,
+      "position": {
+        "row": 9,
+        "col": 6,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-1B": {
+      "box": {
+        "left": 0.7065066004621738,
+        "top": 0.3390576925856035,
+        "right": 0.7579606732493781,
+        "bottom": 0.3564395316715119
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.984,
+      "position": {
+        "row": 9,
+        "col": 7,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-1C": {
+      "box": {
+        "left": 0.75795808583001,
+        "top": 0.3390569918795434,
+        "right": 0.8094338516198465,
+        "bottom": 0.35644232466387077
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.981,
+      "position": {
+        "row": 9,
+        "col": 8,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-1D": {
+      "box": {
+        "left": 0.8094326934491884,
+        "top": 0.3390562889947525,
+        "right": 0.861067077419761,
+        "bottom": 0.35644512613077434
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.971,
+      "position": {
+        "row": 9,
+        "col": 9,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-1E": {
+      "box": {
+        "left": 0.19859675863350087,
+        "top": 0.3564091809416092,
+        "right": 0.3895566767834986,
+        "bottom": 0.37378590465782996
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.996,
+      "position": {
+        "row": 10,
+        "col": 0,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-1F": {
+      "box": {
+        "left": 0.3895554507364946,
+        "top": 0.3564195423531266,
+        "right": 0.4489762688045934,
+        "bottom": 0.37379144561317906
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.989,
+      "position": {
+        "row": 10,
+        "col": 1,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-1G": {
+      "box": {
+        "left": 0.4489737596142798,
+        "top": 0.3564227664372752,
+        "right": 0.500522916266903,
+        "bottom": 0.3737962524608539
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.986,
+      "position": {
+        "row": 10,
+        "col": 2,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-1H": {
+      "box": {
+        "left": 0.5005198815156847,
+        "top": 0.3564255633384882,
+        "right": 0.5520296105430111,
+        "bottom": 0.3738010554976372
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.964,
+      "position": {
+        "row": 10,
+        "col": 3,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-1I": {
+      "box": {
+        "left": 0.5520251374078975,
+        "top": 0.3564283580718567,
+        "right": 0.6035167236976859,
+        "bottom": 0.37380585699977414
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.972,
+      "position": {
+        "row": 10,
+        "col": 4,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-1J": {
+      "box": {
+        "left": 0.6035139365555917,
+        "top": 0.3564311517427611,
+        "right": 0.6549908820116036,
+        "bottom": 0.37381065709990874
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 10,
+        "col": 5,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-1K": {
+      "box": {
+        "left": 0.65498770136253,
+        "top": 0.3564339447107408,
+        "right": 0.7065066004621738,
+        "bottom": 0.3738154610097745
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.989,
+      "position": {
+        "row": 10,
+        "col": 6,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-1L": {
+      "box": {
+        "left": 0.7065023197340782,
+        "top": 0.3564367399337575,
+        "right": 0.75795808583001,
+        "bottom": 0.37382025919019923
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.997,
+      "position": {
+        "row": 10,
+        "col": 7,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-1M": {
+      "box": {
+        "left": 0.7579554985761073,
+        "top": 0.3564395316715119,
+        "right": 0.8094326934491884,
+        "bottom": 0.3738250595022118
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.986,
+      "position": {
+        "row": 10,
+        "col": 8,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-1N": {
+      "box": {
+        "left": 0.8094315354515996,
+        "top": 0.35644232466387077,
+        "right": 0.8610634861944275,
+        "bottom": 0.3738298740188972
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.967,
+      "position": {
+        "row": 10,
+        "col": 9,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-1O": {
+      "box": {
+        "left": 0.19859781983961924,
+        "top": 0.3737680972222711,
+        "right": 0.3895554507364946,
+        "bottom": 0.3912879638321489
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.973,
+      "position": {
+        "row": 11,
+        "col": 0,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-1P": {
+      "box": {
+        "left": 0.38955421510943355,
+        "top": 0.37378590465782996,
+        "right": 0.4489737596142798,
+        "bottom": 0.3912917952876689
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.981,
+      "position": {
+        "row": 11,
+        "col": 1,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-1Q": {
+      "box": {
+        "left": 0.4489712314020051,
+        "top": 0.37379144561317906,
+        "right": 0.5005198815156847,
+        "bottom": 0.3912951191611824
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.992,
+      "position": {
+        "row": 11,
+        "col": 2,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-1R": {
+      "box": {
+        "left": 0.5005168243711657,
+        "top": 0.3737962524608539,
+        "right": 0.5520251374078975,
+        "bottom": 0.3912984403402149
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.983,
+      "position": {
+        "row": 11,
+        "col": 3,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-1S": {
+      "box": {
+        "left": 0.5520206321681749,
+        "top": 0.3738010554976372,
+        "right": 0.6035139365555917,
+        "bottom": 0.3913017606609638
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 11,
+        "col": 4,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-1T": {
+      "box": {
+        "left": 0.603511129971604,
+        "top": 0.37380585699977414,
+        "right": 0.65498770136253,
+        "bottom": 0.391305079877189
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.963,
+      "position": {
+        "row": 11,
+        "col": 5,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-1U": {
+      "box": {
+        "left": 0.654984499167641,
+        "top": 0.37381065709990874,
+        "right": 0.7065023197340782,
+        "bottom": 0.39130840168196956
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.977,
+      "position": {
+        "row": 11,
+        "col": 6,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-1V": {
+      "box": {
+        "left": 0.7064980108714015,
+        "top": 0.3738154610097745,
+        "right": 0.7579554985761073,
+        "bottom": 0.39131171970619066
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.968,
+      "position": {
+        "row": 11,
+        "col": 7,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-1W": {
+      "box": {
+        "left": 0.7579528948387529,
+        "top": 0.37382025919019923,
+        "right": 0.8094315354515996,
+        "bottom": 0.39131503918720556
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.986,
+      "position": {
+        "row": 11,
+        "col": 8,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-1X": {
+      "box": {
+        "left": 0.809430370309607,
+        "top": 0.3738250595022118,
+        "right": 0.861059895813625,
+        "bottom": 0.39131836824013266
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.962,
+      "position": {
+        "row": 11,
+        "col": 9,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-1Y": {
+      "box": {
+        "left": 0.19859889013237722,
+        "top": 0.3912756502412015,
+        "right": 0.38955421510943355,
+        "bottom": 0.40860502384689323
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.99,
+      "position": {
+        "row": 12,
+        "col": 0,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-1Z": {
+      "box": {
+        "left": 0.3895529925431196,
+        "top": 0.3912879638321489,
+        "right": 0.4489712314020051,
+        "bottom": 0.4086060390042059
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.977,
+      "position": {
+        "row": 12,
+        "col": 1,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-20": {
+      "box": {
+        "left": 0.44896873007578564,
+        "top": 0.3912917952876689,
+        "right": 0.5005168243711657,
+        "bottom": 0.4086069196859368
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 12,
+        "col": 2,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-21": {
+      "box": {
+        "left": 0.5005137999080967,
+        "top": 0.3912951191611824,
+        "right": 0.5520206321681749,
+        "bottom": 0.4086077996382056
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 12,
+        "col": 3,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-22": {
+      "box": {
+        "left": 0.5520161753414098,
+        "top": 0.3912984403402149,
+        "right": 0.603511129971604,
+        "bottom": 0.40860867941625056
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 12,
+        "col": 4,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-23": {
+      "box": {
+        "left": 0.6035083537033985,
+        "top": 0.3913017606609638,
+        "right": 0.654984499167641,
+        "bottom": 0.4086095588662453
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 12,
+        "col": 5,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-24": {
+      "box": {
+        "left": 0.6549813317402342,
+        "top": 0.391305079877189,
+        "right": 0.7064980108714015,
+        "bottom": 0.40861043899008587
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 12,
+        "col": 6,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-25": {
+      "box": {
+        "left": 0.7064937490320581,
+        "top": 0.39130840168196956,
+        "right": 0.7579528948387529,
+        "bottom": 0.40861131815974905
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.996,
+      "position": {
+        "row": 12,
+        "col": 7,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-26": {
+      "box": {
+        "left": 0.7579503196615306,
+        "top": 0.39131171970619066,
+        "right": 0.809430370309607,
+        "bottom": 0.40861219771089635
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 12,
+        "col": 8,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-27": {
+      "box": {
+        "left": 0.8094292180129141,
+        "top": 0.39131503918720556,
+        "right": 0.8610562840066366,
+        "bottom": 0.4086130797325598
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 12,
+        "col": 9,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-28": {
+      "box": {
+        "left": 0.1985999493330066,
+        "top": 0.4086017612874057,
+        "right": 0.3895529925431196,
+        "bottom": 0.426009168365166
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.977,
+      "position": {
+        "row": 13,
+        "col": 0,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-29": {
+      "box": {
+        "left": 0.3895517638287309,
+        "top": 0.40860502384689323,
+        "right": 0.44896873007578564,
+        "bottom": 0.42601281632875676
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.965,
+      "position": {
+        "row": 13,
+        "col": 1,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-2a": {
+      "box": {
+        "left": 0.44896621538157017,
+        "top": 0.4086060390042059,
+        "right": 0.5005137999080967,
+        "bottom": 0.426015981091058
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.97,
+      "position": {
+        "row": 13,
+        "col": 2,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-2b": {
+      "box": {
+        "left": 0.5005107584530377,
+        "top": 0.4086069196859368,
+        "right": 0.5520161753414098,
+        "bottom": 0.4260191431758117
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 13,
+        "col": 3,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-2c": {
+      "box": {
+        "left": 0.5520116922556666,
+        "top": 0.4086077996382056,
+        "right": 0.6035083537033985,
+        "bottom": 0.4260223048267388
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.986,
+      "position": {
+        "row": 13,
+        "col": 4,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-2d": {
+      "box": {
+        "left": 0.6035055603179758,
+        "top": 0.40860867941625056,
+        "right": 0.6549813317402342,
+        "bottom": 0.42602546517082984
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.975,
+      "position": {
+        "row": 13,
+        "col": 5,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-2e": {
+      "box": {
+        "left": 0.6549781439170711,
+        "top": 0.4086095588662453,
+        "right": 0.7064937490320581,
+        "bottom": 0.4260286278929538
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.997,
+      "position": {
+        "row": 13,
+        "col": 6,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-2f": {
+      "box": {
+        "left": 0.7064894585822439,
+        "top": 0.40861043899008587,
+        "right": 0.7579503196615306,
+        "bottom": 0.4260317873580818
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.975,
+      "position": {
+        "row": 13,
+        "col": 7,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-2g": {
+      "box": {
+        "left": 0.7579477264917757,
+        "top": 0.40861131815974905,
+        "right": 0.8094292180129141,
+        "bottom": 0.42603494817784365
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.961,
+      "position": {
+        "row": 13,
+        "col": 8,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-2h": {
+      "box": {
+        "left": 0.8094280573495767,
+        "top": 0.40861219771089635,
+        "right": 0.8610527122205786,
+        "bottom": 0.4260381176379413
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.961,
+      "position": {
+        "row": 13,
+        "col": 9,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-2i": {
+      "box": {
+        "left": 0.19860101278679043,
+        "top": 0.42599744425816477,
+        "right": 0.3895517638287309,
+        "bottom": 0.44362672532578545
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.978,
+      "position": {
+        "row": 14,
+        "col": 0,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-2j": {
+      "box": {
+        "left": 0.3895505201167464,
+        "top": 0.426009168365166,
+        "right": 0.44896621538157017,
+        "bottom": 0.44362574656781495
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.972,
+      "position": {
+        "row": 14,
+        "col": 1,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-2k": {
+      "box": {
+        "left": 0.44896367094918366,
+        "top": 0.42601281632875676,
+        "right": 0.5005107584530377,
+        "bottom": 0.4436254420295946
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.997,
+      "position": {
+        "row": 14,
+        "col": 2,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-2l": {
+      "box": {
+        "left": 0.5005076820332783,
+        "top": 0.426015981091058,
+        "right": 0.5520116922556666,
+        "bottom": 0.4436251778267845
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.993,
+      "position": {
+        "row": 14,
+        "col": 3,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-2m": {
+      "box": {
+        "left": 0.5520071591086784,
+        "top": 0.4260191431758117,
+        "right": 0.6035055603179758,
+        "bottom": 0.44362491385224556
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 14,
+        "col": 4,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-2n": {
+      "box": {
+        "left": 0.6035027366593192,
+        "top": 0.4260223048267388,
+        "right": 0.6549781439170711,
+        "bottom": 0.4436246498976947
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.991,
+      "position": {
+        "row": 14,
+        "col": 5,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-2o": {
+      "box": {
+        "left": 0.6549749225947533,
+        "top": 0.42602546517082984,
+        "right": 0.7064894585822439,
+        "bottom": 0.44362438606304394
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.977,
+      "position": {
+        "row": 14,
+        "col": 6,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-2p": {
+      "box": {
+        "left": 0.7064851244585879,
+        "top": 0.4260286278929538,
+        "right": 0.7579477264917757,
+        "bottom": 0.44362412203353213
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.984,
+      "position": {
+        "row": 14,
+        "col": 7,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-2q": {
+      "box": {
+        "left": 0.7579451077777974,
+        "top": 0.4260317873580818,
+        "right": 0.8094280573495767,
+        "bottom": 0.4436238582614292
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.991,
+      "position": {
+        "row": 14,
+        "col": 8,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-2r": {
+      "box": {
+        "left": 0.8094268856346493,
+        "top": 0.42603494817784365,
+        "right": 0.86104911351889,
+        "bottom": 0.4436235943776124
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.987,
+      "position": {
+        "row": 14,
+        "col": 9,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-2s": {
+      "box": {
+        "left": 0.19860209052117367,
+        "top": 0.44362574656781495,
+        "right": 0.3895505201167464,
+        "bottom": 0.46093008994896334
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.981,
+      "position": {
+        "row": 15,
+        "col": 0,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-2t": {
+      "box": {
+        "left": 0.38954929882528566,
+        "top": 0.4436254420295946,
+        "right": 0.44896367094918366,
+        "bottom": 0.46092474890352086
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.966,
+      "position": {
+        "row": 15,
+        "col": 1,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-2u": {
+      "box": {
+        "left": 0.4489611720209155,
+        "top": 0.4436251778267845,
+        "right": 0.5005076820332783,
+        "bottom": 0.46092308706580515
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 15,
+        "col": 2,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-2v": {
+      "box": {
+        "left": 0.5005046602489713,
+        "top": 0.44362491385224556,
+        "right": 0.5520071591086784,
+        "bottom": 0.46092164531842145
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.973,
+      "position": {
+        "row": 15,
+        "col": 3,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-2w": {
+      "box": {
+        "left": 0.5520027059042318,
+        "top": 0.4436246498976947,
+        "right": 0.6035027366593192,
+        "bottom": 0.4609202048421336
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.999,
+      "position": {
+        "row": 15,
+        "col": 4,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-2x": {
+      "box": {
+        "left": 0.6034999624450945,
+        "top": 0.44362438606304394,
+        "right": 0.6549749225947533,
+        "bottom": 0.46091876438791846
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 15,
+        "col": 5,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-2y": {
+      "box": {
+        "left": 0.6549717572797127,
+        "top": 0.44362412203353213,
+        "right": 0.7064851244585879,
+        "bottom": 0.4609173246459048
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 15,
+        "col": 6,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-2z": {
+      "box": {
+        "left": 0.7064808651503022,
+        "top": 0.4436238582614292,
+        "right": 0.7579451077777974,
+        "bottom": 0.4609158838601904
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.993,
+      "position": {
+        "row": 15,
+        "col": 7,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-2A": {
+      "box": {
+        "left": 0.7579425339421269,
+        "top": 0.4436235943776124,
+        "right": 0.8094268856346493,
+        "bottom": 0.4609144444014171
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 15,
+        "col": 8,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-2B": {
+      "box": {
+        "left": 0.8094257338541476,
+        "top": 0.4436233297924966,
+        "right": 0.8610454817372541,
+        "bottom": 0.46091300434038657
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 15,
+        "col": 9,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-2C": {
+      "box": {
+        "left": 0.19860314833124143,
+        "top": 0.46092474890352086,
+        "right": 0.38954929882528566,
+        "bottom": 0.4782204922130041
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.988,
+      "position": {
+        "row": 16,
+        "col": 0,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-2D": {
+      "box": {
+        "left": 0.38954807776390876,
+        "top": 0.46092308706580515,
+        "right": 0.4489611720209155,
+        "bottom": 0.47822276963428656
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.982,
+      "position": {
+        "row": 16,
+        "col": 1,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-2E": {
+      "box": {
+        "left": 0.44895867279829255,
+        "top": 0.46092164531842145,
+        "right": 0.5005046602489713,
+        "bottom": 0.4782247454610604
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 16,
+        "col": 2,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-2F": {
+      "box": {
+        "left": 0.500501637305905,
+        "top": 0.4609202048421336,
+        "right": 0.5520027059042318,
+        "bottom": 0.47822671951099577
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.962,
+      "position": {
+        "row": 16,
+        "col": 3,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-2G": {
+      "box": {
+        "left": 0.5519982498099039,
+        "top": 0.46091876438791846,
+        "right": 0.6034999624450945,
+        "bottom": 0.4782286936499946
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.963,
+      "position": {
+        "row": 16,
+        "col": 4,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-2H": {
+      "box": {
+        "left": 0.6034971856939624,
+        "top": 0.4609173246459048,
+        "right": 0.6549717572797127,
+        "bottom": 0.47823066673354137
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.965,
+      "position": {
+        "row": 16,
+        "col": 5,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-2I": {
+      "box": {
+        "left": 0.654968588229996,
+        "top": 0.4609158838601904,
+        "right": 0.7064808651503022,
+        "bottom": 0.47823264122043946
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.971,
+      "position": {
+        "row": 16,
+        "col": 6,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-2J": {
+      "box": {
+        "left": 0.7064765996851143,
+        "top": 0.4609144444014171,
+        "right": 0.7579425339421269,
+        "bottom": 0.4782346139955343
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.98,
+      "position": {
+        "row": 16,
+        "col": 7,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-2K": {
+      "box": {
+        "left": 0.7579399557027332,
+        "top": 0.46091300434038657,
+        "right": 0.8094257338541476,
+        "bottom": 0.4782365875859108
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.997,
+      "position": {
+        "row": 16,
+        "col": 8,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-2L": {
+      "box": {
+        "left": 0.8094245797971009,
+        "top": 0.46091156055977855,
+        "right": 0.8610419112896263,
+        "bottom": 0.4782385661262631
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.981,
+      "position": {
+        "row": 16,
+        "col": 9,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-2M": {
+      "box": {
+        "left": 0.1986042049014103,
+        "top": 0.47821317264922025,
+        "right": 0.38954807776390876,
+        "bottom": 0.5284273618609379
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.964,
+      "position": {
+        "row": 17,
+        "col": 0,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-2N": {
+      "box": {
+        "left": 0.38954453440617554,
+        "top": 0.4782204922130041,
+        "right": 0.44895867279829255,
+        "bottom": 0.528410439230212
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.963,
+      "position": {
+        "row": 17,
+        "col": 1,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-2O": {
+      "box": {
+        "left": 0.4489514231276771,
+        "top": 0.47822276963428656,
+        "right": 0.500501637305905,
+        "bottom": 0.5284051740407895
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.99,
+      "position": {
+        "row": 17,
+        "col": 2,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-2P": {
+      "box": {
+        "left": 0.5004928713178254,
+        "top": 0.4782247454610604,
+        "right": 0.5519982498099039,
+        "bottom": 0.5284006059596515
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.982,
+      "position": {
+        "row": 17,
+        "col": 3,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-2Q": {
+      "box": {
+        "left": 0.5519853321752077,
+        "top": 0.47822671951099577,
+        "right": 0.6034971856939624,
+        "bottom": 0.5283960422202253
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.965,
+      "position": {
+        "row": 17,
+        "col": 4,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-2R": {
+      "box": {
+        "left": 0.6034891388923453,
+        "top": 0.4782286936499946,
+        "right": 0.654968588229996,
+        "bottom": 0.5283914774752239
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.995,
+      "position": {
+        "row": 17,
+        "col": 5,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-2S": {
+      "box": {
+        "left": 0.6549594075850478,
+        "top": 0.47823066673354137,
+        "right": 0.7064765996851143,
+        "bottom": 0.528386915702673
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.997,
+      "position": {
+        "row": 17,
+        "col": 6,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-2T": {
+      "box": {
+        "left": 0.7064642468042474,
+        "top": 0.47823264122043946,
+        "right": 0.7579399557027332,
+        "bottom": 0.5283823508661616
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.983,
+      "position": {
+        "row": 17,
+        "col": 7,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-2U": {
+      "box": {
+        "left": 0.7579324915085104,
+        "top": 0.4782346139955343,
+        "right": 0.8094245797971009,
+        "bottom": 0.5283777892729955
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.992,
+      "position": {
+        "row": 17,
+        "col": 8,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-2V": {
+      "box": {
+        "left": 0.8094212398102243,
+        "top": 0.4782365875859108,
+        "right": 0.8610383328340426,
+        "bottom": 0.5283732258626104
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.978,
+      "position": {
+        "row": 17,
+        "col": 9,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-2W": {
+      "box": {
+        "left": 0.19860727465553313,
+        "top": 0.528410439230212,
+        "right": 0.38954453440617554,
+        "bottom": 0.5458330853875641
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.991,
+      "position": {
+        "row": 18,
+        "col": 0,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-2X": {
+      "box": {
+        "left": 0.3895433048165196,
+        "top": 0.5284051740407895,
+        "right": 0.4489514231276771,
+        "bottom": 0.5458269814836658
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.996,
+      "position": {
+        "row": 18,
+        "col": 1,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-2Y": {
+      "box": {
+        "left": 0.448948906536472,
+        "top": 0.5284006059596515,
+        "right": 0.5004928713178254,
+        "bottom": 0.545825082375863
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.99,
+      "position": {
+        "row": 18,
+        "col": 2,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-2Z": {
+      "box": {
+        "left": 0.5004898274575419,
+        "top": 0.5283960422202253,
+        "right": 0.5519853321752077,
+        "bottom": 0.5458234346900852
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.975,
+      "position": {
+        "row": 18,
+        "col": 3,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-30": {
+      "box": {
+        "left": 0.55198084538101,
+        "top": 0.5283914774752239,
+        "right": 0.6034891388923453,
+        "bottom": 0.5458217885996312
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.99,
+      "position": {
+        "row": 18,
+        "col": 4,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-31": {
+      "box": {
+        "left": 0.6034863430944339,
+        "top": 0.528386915702673,
+        "right": 0.6549594075850478,
+        "bottom": 0.5458201420462798
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 18,
+        "col": 5,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-32": {
+      "box": {
+        "left": 0.6549562168927874,
+        "top": 0.5283823508661616,
+        "right": 0.7064642468042474,
+        "bottom": 0.5458184966317718
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 18,
+        "col": 6,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-33": {
+      "box": {
+        "left": 0.7064599523368623,
+        "top": 0.5283777892729955,
+        "right": 0.7579324915085104,
+        "bottom": 0.5458168501347576
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.981,
+      "position": {
+        "row": 18,
+        "col": 7,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-34": {
+      "box": {
+        "left": 0.7579298958161774,
+        "top": 0.5283732258626104,
+        "right": 0.8094212398102243,
+        "bottom": 0.5458152047180219
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 18,
+        "col": 8,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-35": {
+      "box": {
+        "left": 0.809420077975593,
+        "top": 0.528368651994714,
+        "right": 0.8610279797303286,
+        "bottom": 0.5458135586542859
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 18,
+        "col": 9,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-36": {
+      "box": {
+        "left": 0.19860833872312827,
+        "top": 0.5458269814836658,
+        "right": 0.3895433048165196,
+        "bottom": 0.5632896116661592
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.974,
+      "position": {
+        "row": 19,
+        "col": 0,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-37": {
+      "box": {
+        "left": 0.3895420719731042,
+        "top": 0.545825082375863,
+        "right": 0.448948906536472,
+        "bottom": 0.5632925814341956
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.98,
+      "position": {
+        "row": 19,
+        "col": 1,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-38": {
+      "box": {
+        "left": 0.44894638307000717,
+        "top": 0.5458234346900852,
+        "right": 0.5004898274575419,
+        "bottom": 0.5632951580655184
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.99,
+      "position": {
+        "row": 19,
+        "col": 2,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-39": {
+      "box": {
+        "left": 0.5004867750551054,
+        "top": 0.5458217885996312,
+        "right": 0.55198084538101,
+        "bottom": 0.5632977321561554
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.971,
+      "position": {
+        "row": 19,
+        "col": 3,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-3a": {
+      "box": {
+        "left": 0.5519763456620057,
+        "top": 0.5458201420462798,
+        "right": 0.6034863430944339,
+        "bottom": 0.5633003071277978
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.992,
+      "position": {
+        "row": 19,
+        "col": 4,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-3b": {
+      "box": {
+        "left": 0.603483539035131,
+        "top": 0.5458184966317718,
+        "right": 0.6549562168927874,
+        "bottom": 0.5633028802139308
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 19,
+        "col": 5,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-3c": {
+      "box": {
+        "left": 0.654953016535482,
+        "top": 0.5458168501347576,
+        "right": 0.7064599523368623,
+        "bottom": 0.5633054549573394
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 19,
+        "col": 6,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-3d": {
+      "box": {
+        "left": 0.7064556445421925,
+        "top": 0.5458152047180219,
+        "right": 0.7579298958161774,
+        "bottom": 0.5633080281519478
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.977,
+      "position": {
+        "row": 19,
+        "col": 7,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-3e": {
+      "box": {
+        "left": 0.7579272918759423,
+        "top": 0.5458135586542859,
+        "right": 0.809420077975593,
+        "bottom": 0.5633106023450631
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 19,
+        "col": 8,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-3f": {
+      "box": {
+        "left": 0.8094189123630127,
+        "top": 0.5458119089423968,
+        "right": 0.8610243772659569,
+        "bottom": 0.5633131820488466
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 19,
+        "col": 9,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-3g": {
+      "box": {
+        "left": 0.19860940531292998,
+        "top": 0.5632800664712054,
+        "right": 0.3895420719731042,
+        "bottom": 0.5806016879596987
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.98,
+      "position": {
+        "row": 20,
+        "col": 0,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-3h": {
+      "box": {
+        "left": 0.3895408497586358,
+        "top": 0.5632896116661592,
+        "right": 0.44894638307000717,
+        "bottom": 0.580602568727081
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.996,
+      "position": {
+        "row": 20,
+        "col": 1,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-3i": {
+      "box": {
+        "left": 0.44894388235869775,
+        "top": 0.5632925814341956,
+        "right": 0.5004867750551054,
+        "bottom": 0.5806033329075174
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 20,
+        "col": 2,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-3j": {
+      "box": {
+        "left": 0.5004837512254623,
+        "top": 0.5632951580655184,
+        "right": 0.5519763456620057,
+        "bottom": 0.5806040963209471
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.983,
+      "position": {
+        "row": 20,
+        "col": 3,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-3k": {
+      "box": {
+        "left": 0.5519718896064297,
+        "top": 0.5632977321561554,
+        "right": 0.603483539035131,
+        "bottom": 0.5806048600418166
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.962,
+      "position": {
+        "row": 20,
+        "col": 4,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-3l": {
+      "box": {
+        "left": 0.6034807631464393,
+        "top": 0.5633003071277978,
+        "right": 0.654953016535482,
+        "bottom": 0.5806056231727612
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 20,
+        "col": 5,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-3m": {
+      "box": {
+        "left": 0.6549498494258394,
+        "top": 0.5633028802139308,
+        "right": 0.7064556445421925,
+        "bottom": 0.5806063867848008
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.996,
+      "position": {
+        "row": 20,
+        "col": 6,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-3n": {
+      "box": {
+        "left": 0.7064513829751513,
+        "top": 0.5633054549573394,
+        "right": 0.7579272918759423,
+        "bottom": 0.5806071499787234
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.998,
+      "position": {
+        "row": 20,
+        "col": 7,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-3o": {
+      "box": {
+        "left": 0.7579247167696694,
+        "top": 0.5633080281519478,
+        "right": 0.8094189123630127,
+        "bottom": 0.5806079134648781
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.997,
+      "position": {
+        "row": 20,
+        "col": 8,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-3p": {
+      "box": {
+        "left": 0.8094177600561544,
+        "top": 0.5633106023450631,
+        "right": 0.8610207628198122,
+        "bottom": 0.5806086785284381
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.981,
+      "position": {
+        "row": 20,
+        "col": 9,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-3q": {
+      "box": {
+        "left": 0.19861046406603508,
+        "top": 0.5805988570393126,
+        "right": 0.3895408497586358,
+        "bottom": 0.6143191694998698
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.997,
+      "position": {
+        "row": 21,
+        "col": 0,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-3r": {
+      "box": {
+        "left": 0.3895384696740611,
+        "top": 0.5806016879596987,
+        "right": 0.44894388235869775,
+        "bottom": 0.6143144338052776
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.985,
+      "position": {
+        "row": 21,
+        "col": 1,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-3s": {
+      "box": {
+        "left": 0.44893901234022904,
+        "top": 0.580602568727081,
+        "right": 0.5004837512254623,
+        "bottom": 0.6143129604443371
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.988,
+      "position": {
+        "row": 21,
+        "col": 2,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-3t": {
+      "box": {
+        "left": 0.500477862198665,
+        "top": 0.5806033329075174,
+        "right": 0.5519718896064297,
+        "bottom": 0.6143116820834857
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.971,
+      "position": {
+        "row": 21,
+        "col": 3,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-3u": {
+      "box": {
+        "left": 0.5519632108808741,
+        "top": 0.5806040963209471,
+        "right": 0.6034807631464393,
+        "bottom": 0.6143104050496684
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 21,
+        "col": 4,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-3v": {
+      "box": {
+        "left": 0.6034753565176199,
+        "top": 0.5806048600418166,
+        "right": 0.6549498494258394,
+        "bottom": 0.6143091273511838
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 21,
+        "col": 5,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-3w": {
+      "box": {
+        "left": 0.6549436805397759,
+        "top": 0.5806056231727612,
+        "right": 0.7064513829751513,
+        "bottom": 0.6143078507396432
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 21,
+        "col": 6,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-3x": {
+      "box": {
+        "left": 0.7064430819422467,
+        "top": 0.5806063867848008,
+        "right": 0.7579247167696694,
+        "bottom": 0.6143065733572646
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.986,
+      "position": {
+        "row": 21,
+        "col": 7,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-3y": {
+      "box": {
+        "left": 0.7579197005434435,
+        "top": 0.5806071499787234,
+        "right": 0.8094177600561544,
+        "bottom": 0.6143052965399867
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 21,
+        "col": 8,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-3z": {
+      "box": {
+        "left": 0.8094155152995258,
+        "top": 0.5806079134648781,
+        "right": 0.861017190871635,
+        "bottom": 0.6143040192465707
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.995,
+      "position": {
+        "row": 21,
+        "col": 9,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-3A": {
+      "box": {
+        "left": 0.19861252549667502,
+        "top": 0.6143144338052776,
+        "right": 0.3895384696740611,
+        "bottom": 0.6317515748183307
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.247,
+      "position": {
+        "row": 22,
+        "col": 0,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-3B": {
+      "box": {
+        "left": 0.3895372386301543,
+        "top": 0.6143129604443371,
+        "right": 0.44893901234022904,
+        "bottom": 0.6317557525538418
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.989,
+      "position": {
+        "row": 22,
+        "col": 1,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-3C": {
+      "box": {
+        "left": 0.4489364924430877,
+        "top": 0.6143116820834857,
+        "right": 0.500477862198665,
+        "bottom": 0.6317593774053727
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.792,
+      "position": {
+        "row": 22,
+        "col": 2,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-3D": {
+      "box": {
+        "left": 0.5004748139940564,
+        "top": 0.6143104050496684,
+        "right": 0.5519632108808741,
+        "bottom": 0.6317629984294892
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.982,
+      "position": {
+        "row": 22,
+        "col": 3,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-3E": {
+      "box": {
+        "left": 0.5519587171740907,
+        "top": 0.6143091273511838,
+        "right": 0.6034753565176199,
+        "bottom": 0.6317666215590803
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.995,
+      "position": {
+        "row": 22,
+        "col": 4,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-3F": {
+      "box": {
+        "left": 0.6034725560950376,
+        "top": 0.6143078507396432,
+        "right": 0.6549436805397759,
+        "bottom": 0.6317702414596202
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.974,
+      "position": {
+        "row": 22,
+        "col": 5,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-3G": {
+      "box": {
+        "left": 0.6549404842080637,
+        "top": 0.6143065733572646,
+        "right": 0.7064430819422467,
+        "bottom": 0.631773863495972
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.989,
+      "position": {
+        "row": 22,
+        "col": 6,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-3H": {
+      "box": {
+        "left": 0.7064387793978117,
+        "top": 0.6143052965399867,
+        "right": 0.7579197005434435,
+        "bottom": 0.6317774841274256
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.978,
+      "position": {
+        "row": 22,
+        "col": 7,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-3I": {
+      "box": {
+        "left": 0.7579170996750116,
+        "top": 0.6143040192465707,
+        "right": 0.8094155152995258,
+        "bottom": 0.6317811060903601
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.963,
+      "position": {
+        "row": 22,
+        "col": 8,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-3J": {
+      "box": {
+        "left": 0.8094143510164244,
+        "top": 0.6143027395000022,
+        "right": 0.8610102322139399,
+        "bottom": 0.6317847347363059
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.994,
+      "position": {
+        "row": 22,
+        "col": 9,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-3K": {
+      "box": {
+        "left": 0.1986135903745011,
+        "top": 0.6317381465603306,
+        "right": 0.3895372386301543,
+        "bottom": 0.6820214330520941
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.983,
+      "position": {
+        "row": 23,
+        "col": 0,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-3L": {
+      "box": {
+        "left": 0.38953369174521546,
+        "top": 0.6317515748183307,
+        "right": 0.4489364924430877,
+        "bottom": 0.6819914829953508
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.993,
+      "position": {
+        "row": 23,
+        "col": 1,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-3M": {
+      "box": {
+        "left": 0.4489292364147415,
+        "top": 0.6317557525538418,
+        "right": 0.5004748139940564,
+        "bottom": 0.6819821653354362
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.989,
+      "position": {
+        "row": 23,
+        "col": 2,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-3N": {
+      "box": {
+        "left": 0.5004660412199675,
+        "top": 0.6317593774053727,
+        "right": 0.5519587171740907,
+        "bottom": 0.6819740805132003
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.97,
+      "position": {
+        "row": 23,
+        "col": 3,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-3O": {
+      "box": {
+        "left": 0.551945790866541,
+        "top": 0.6317629984294892,
+        "right": 0.6034725560950376,
+        "bottom": 0.6819660046414768
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 23,
+        "col": 4,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-3P": {
+      "box": {
+        "left": 0.6034645047188572,
+        "top": 0.6317666215590803,
+        "right": 0.6549404842080637,
+        "bottom": 0.6819579226572541
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 23,
+        "col": 5,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-3Q": {
+      "box": {
+        "left": 0.6549312992875747,
+        "top": 0.6317702414596202,
+        "right": 0.7064387793978117,
+        "bottom": 0.681949848817855
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 23,
+        "col": 6,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-3R": {
+      "box": {
+        "left": 0.7064264220345615,
+        "top": 0.631773863495972,
+        "right": 0.7579170996750116,
+        "bottom": 0.6819417705344807
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.999,
+      "position": {
+        "row": 23,
+        "col": 7,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-3S": {
+      "box": {
+        "left": 0.7579096335404721,
+        "top": 0.6317774841274256,
+        "right": 0.8094143510164244,
+        "bottom": 0.681933694119679
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 23,
+        "col": 8,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-3T": {
+      "box": {
+        "left": 0.8094110105052341,
+        "top": 0.6317811060903601,
+        "right": 0.8610066217491527,
+        "bottom": 0.6819256148551758
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 23,
+        "col": 9,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-3U": {
+      "box": {
+        "left": 0.19861666435276187,
+        "top": 0.6819914829953508,
+        "right": 0.38953369174521546,
+        "bottom": 0.6993403069200065
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.977,
+      "position": {
+        "row": 24,
+        "col": 0,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-3V": {
+      "box": {
+        "left": 0.38953246693640264,
+        "top": 0.6819821653354362,
+        "right": 0.4489292364147415,
+        "bottom": 0.6993406735969899
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.994,
+      "position": {
+        "row": 24,
+        "col": 1,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-3W": {
+      "box": {
+        "left": 0.44892672869378314,
+        "top": 0.6819740805132003,
+        "right": 0.5004660412199675,
+        "bottom": 0.6993409917618523
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.987,
+      "position": {
+        "row": 24,
+        "col": 2,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-3X": {
+      "box": {
+        "left": 0.5004630071287637,
+        "top": 0.6819660046414768,
+        "right": 0.551945790866541,
+        "bottom": 0.6993413095688396
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.975,
+      "position": {
+        "row": 24,
+        "col": 3,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-3Y": {
+      "box": {
+        "left": 0.551941317060046,
+        "top": 0.6819579226572541,
+        "right": 0.6034645047188572,
+        "bottom": 0.6993416276356688
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.983,
+      "position": {
+        "row": 24,
+        "col": 4,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-3Z": {
+      "box": {
+        "left": 0.6034617161330837,
+        "top": 0.681949848817855,
+        "right": 0.6549312992875747,
+        "bottom": 0.6993419453691271
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.981,
+      "position": {
+        "row": 24,
+        "col": 5,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-40": {
+      "box": {
+        "left": 0.6549281158225704,
+        "top": 0.6819417705344807,
+        "right": 0.7064264220345615,
+        "bottom": 0.6993422632731029
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.982,
+      "position": {
+        "row": 24,
+        "col": 6,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-41": {
+      "box": {
+        "left": 0.7064221359436679,
+        "top": 0.681933694119679,
+        "right": 0.7579096335404721,
+        "bottom": 0.6993425811208128
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.983,
+      "position": {
+        "row": 24,
+        "col": 7,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-42": {
+      "box": {
+        "left": 0.7579070420948155,
+        "top": 0.6819256148551758,
+        "right": 0.8094110105052341,
+        "bottom": 0.6993428990790423
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.965,
+      "position": {
+        "row": 24,
+        "col": 8,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-43": {
+      "box": {
+        "left": 0.809409850206045,
+        "top": 0.6819175224319236,
+        "right": 0.8609962680874443,
+        "bottom": 0.6993432175312282
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.982,
+      "position": {
+        "row": 24,
+        "col": 9,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-44": {
+      "box": {
+        "left": 0.19861772303890576,
+        "top": 0.6993391282869147,
+        "right": 0.38953246693640264,
+        "bottom": 0.7168185394636046
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.984,
+      "position": {
+        "row": 25,
+        "col": 0,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-45": {
+      "box": {
+        "left": 0.38953123299147685,
+        "top": 0.6993403069200065,
+        "right": 0.44892672869378314,
+        "bottom": 0.7168242326951002
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.993,
+      "position": {
+        "row": 25,
+        "col": 1,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-46": {
+      "box": {
+        "left": 0.44892420290718227,
+        "top": 0.6993406735969899,
+        "right": 0.5004630071287637,
+        "bottom": 0.716829172757021
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 25,
+        "col": 2,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-47": {
+      "box": {
+        "left": 0.500459951851094,
+        "top": 0.6993409917618523,
+        "right": 0.551941317060046,
+        "bottom": 0.7168341071741349
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.99,
+      "position": {
+        "row": 25,
+        "col": 3,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-48": {
+      "box": {
+        "left": 0.5519368130014486,
+        "top": 0.6993413095688396,
+        "right": 0.6034617161330837,
+        "bottom": 0.7168390459273547
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 25,
+        "col": 4,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-49": {
+      "box": {
+        "left": 0.6034589093061283,
+        "top": 0.6993416276356688,
+        "right": 0.6549281158225704,
+        "bottom": 0.716843979303632
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.969,
+      "position": {
+        "row": 25,
+        "col": 5,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-4a": {
+      "box": {
+        "left": 0.6549249122345284,
+        "top": 0.6993419453691271,
+        "right": 0.7064221359436679,
+        "bottom": 0.7168489152592813
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.979,
+      "position": {
+        "row": 25,
+        "col": 6,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-4b": {
+      "box": {
+        "left": 0.706417823703619,
+        "top": 0.6993422632731029,
+        "right": 0.7579070420948155,
+        "bottom": 0.716853850611054
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.978,
+      "position": {
+        "row": 25,
+        "col": 7,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-4c": {
+      "box": {
+        "left": 0.7579044354087444,
+        "top": 0.6993425811208128,
+        "right": 0.809409850206045,
+        "bottom": 0.7168587876533822
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.976,
+      "position": {
+        "row": 25,
+        "col": 8,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-4d": {
+      "box": {
+        "left": 0.809408683338062,
+        "top": 0.6993428990790423,
+        "right": 0.860992669250029,
+        "bottom": 0.7168637319923028
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 25,
+        "col": 9,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-4e": {
+      "box": {
+        "left": 0.19861879049250739,
+        "top": 0.7168002391709589,
+        "right": 0.38953123299147685,
+        "bottom": 0.73406374215022
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.972,
+      "position": {
+        "row": 26,
+        "col": 0,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-4f": {
+      "box": {
+        "left": 0.3895300154982151,
+        "top": 0.7168185394636046,
+        "right": 0.44892420290718227,
+        "bottom": 0.7340682370861238
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.979,
+      "position": {
+        "row": 26,
+        "col": 1,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-4g": {
+      "box": {
+        "left": 0.44892171172818435,
+        "top": 0.7168242326951002,
+        "right": 0.500459951851094,
+        "bottom": 0.7340721374216915
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 26,
+        "col": 2,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-4h": {
+      "box": {
+        "left": 0.5004569394140137,
+        "top": 0.716829172757021,
+        "right": 0.5519368130014486,
+        "bottom": 0.7340760332319088
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.983,
+      "position": {
+        "row": 26,
+        "col": 3,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-4i": {
+      "box": {
+        "left": 0.5519323735374446,
+        "top": 0.7168341071741349,
+        "right": 0.6034589093061283,
+        "bottom": 0.7340799327003327
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 26,
+        "col": 4,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-4j": {
+      "box": {
+        "left": 0.6034561436303625,
+        "top": 0.7168390459273547,
+        "right": 0.6549249122345284,
+        "bottom": 0.7340838277672596
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.986,
+      "position": {
+        "row": 26,
+        "col": 5,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-4k": {
+      "box": {
+        "left": 0.654921756637151,
+        "top": 0.716843979303632,
+        "right": 0.706417823703619,
+        "bottom": 0.7340877248176683
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.984,
+      "position": {
+        "row": 26,
+        "col": 6,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-4l": {
+      "box": {
+        "left": 0.7064135774385406,
+        "top": 0.7168489152592813,
+        "right": 0.7579044354087444,
+        "bottom": 0.7340916216010067
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.978,
+      "position": {
+        "row": 26,
+        "col": 7,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-4m": {
+      "box": {
+        "left": 0.7579018694350117,
+        "top": 0.716853850611054,
+        "right": 0.809408683338062,
+        "bottom": 0.7340955196992325
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.985,
+      "position": {
+        "row": 26,
+        "col": 8,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-4n": {
+      "box": {
+        "left": 0.8094075350668416,
+        "top": 0.7168587876533822,
+        "right": 0.8609890508300683,
+        "bottom": 0.7340994232686157
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 26,
+        "col": 9,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-4o": {
+      "box": {
+        "left": 0.19861984498241386,
+        "top": 0.7340492935145635,
+        "right": 0.3895300154982151,
+        "bottom": 0.7515657297203442
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 27,
+        "col": 0,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-4p": {
+      "box": {
+        "left": 0.3895287798762093,
+        "top": 0.73406374215022,
+        "right": 0.44892171172818435,
+        "bottom": 0.7515719007544486
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.985,
+      "position": {
+        "row": 27,
+        "col": 1,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-4q": {
+      "box": {
+        "left": 0.4489191830371489,
+        "top": 0.7340682370861238,
+        "right": 0.5004569394140137,
+        "bottom": 0.7515772555316996
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 27,
+        "col": 2,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-4r": {
+      "box": {
+        "left": 0.5004538811773405,
+        "top": 0.7340721374216915,
+        "right": 0.5519323735374446,
+        "bottom": 0.7515826040004506
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.988,
+      "position": {
+        "row": 27,
+        "col": 3,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-4s": {
+      "box": {
+        "left": 0.5519278659325229,
+        "top": 0.7340760332319088,
+        "right": 0.6034561436303625,
+        "bottom": 0.751587957818754
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 27,
+        "col": 4,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-4t": {
+      "box": {
+        "left": 0.603453335101926,
+        "top": 0.7340799327003327,
+        "right": 0.654921756637151,
+        "bottom": 0.7515933053764373
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.987,
+      "position": {
+        "row": 27,
+        "col": 5,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-4u": {
+      "box": {
+        "left": 0.6549185516866121,
+        "top": 0.7340838277672596,
+        "right": 0.7064135774385406,
+        "bottom": 0.7515986555833012
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.991,
+      "position": {
+        "row": 27,
+        "col": 6,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-4v": {
+      "box": {
+        "left": 0.7064092641445426,
+        "top": 0.7340877248176683,
+        "right": 0.7579018694350117,
+        "bottom": 0.7516040057159737
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.987,
+      "position": {
+        "row": 27,
+        "col": 7,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-4w": {
+      "box": {
+        "left": 0.7578992625830201,
+        "top": 0.7340916216010067,
+        "right": 0.8094075350668416,
+        "bottom": 0.7516093576262035
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.986,
+      "position": {
+        "row": 27,
+        "col": 8,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-4x": {
+      "box": {
+        "left": 0.8094063683354682,
+        "top": 0.7340955196992325,
+        "right": 0.8609854912331462,
+        "bottom": 0.7516147166436
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 27,
+        "col": 9,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-4y": {
+      "box": {
+        "left": 0.1986209146055595,
+        "top": 0.7515458931998851,
+        "right": 0.3895287798762093,
+        "bottom": 0.7690352498027091
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.986,
+      "position": {
+        "row": 28,
+        "col": 0,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-4z": {
+      "box": {
+        "left": 0.3895275465463741,
+        "top": 0.7515657297203442,
+        "right": 0.4489191830371489,
+        "bottom": 0.769043332593237
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.968,
+      "position": {
+        "row": 28,
+        "col": 1,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-4A": {
+      "box": {
+        "left": 0.4489166590025294,
+        "top": 0.7515719007544486,
+        "right": 0.5004538811773405,
+        "bottom": 0.7690503463349844
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 28,
+        "col": 2,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-4B": {
+      "box": {
+        "left": 0.5004508285360072,
+        "top": 0.7515772555316996,
+        "right": 0.5519278659325229,
+        "bottom": 0.7690573516887482
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.999,
+      "position": {
+        "row": 28,
+        "col": 3,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-4C": {
+      "box": {
+        "left": 0.5519233665214315,
+        "top": 0.7515826040004506,
+        "right": 0.603453335101926,
+        "bottom": 0.7690643644772033
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 28,
+        "col": 4,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-4D": {
+      "box": {
+        "left": 0.6034505316455259,
+        "top": 0.751587957818754,
+        "right": 0.6549185516866121,
+        "bottom": 0.7690713687806725
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 28,
+        "col": 5,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-4E": {
+      "box": {
+        "left": 0.6549153524861575,
+        "top": 0.7515933053764373,
+        "right": 0.7064092641445426,
+        "bottom": 0.7690783764573808
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 28,
+        "col": 6,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-4F": {
+      "box": {
+        "left": 0.7064049585381678,
+        "top": 0.7515986555833012,
+        "right": 0.7578992625830201,
+        "bottom": 0.7690853844193191
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.971,
+      "position": {
+        "row": 28,
+        "col": 7,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-4G": {
+      "box": {
+        "left": 0.7578966603464206,
+        "top": 0.7516040057159737,
+        "right": 0.8094063683354682,
+        "bottom": 0.7690923946733664
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 28,
+        "col": 8,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-4H": {
+      "box": {
+        "left": 0.809405203655978,
+        "top": 0.7516093576262035,
+        "right": 0.8609818738914689,
+        "bottom": 0.7690994137079549
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.86,
+      "position": {
+        "row": 28,
+        "col": 9,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-4I": {
+      "box": {
+        "left": 0.19862198219754768,
+        "top": 0.7690092677729493,
+        "right": 0.3895275465463741,
+        "bottom": 0.7863431864645255
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.981,
+      "position": {
+        "row": 29,
+        "col": 0,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-4J": {
+      "box": {
+        "left": 0.3895263246241594,
+        "top": 0.7690352498027091,
+        "right": 0.4489166590025294,
+        "bottom": 0.7863544576851604
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.986,
+      "position": {
+        "row": 29,
+        "col": 1,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-4K": {
+      "box": {
+        "left": 0.4489141581268464,
+        "top": 0.769043332593237,
+        "right": 0.5004508285360072,
+        "bottom": 0.7863642382589784
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 29,
+        "col": 2,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-4L": {
+      "box": {
+        "left": 0.5004478037075596,
+        "top": 0.7690503463349844,
+        "right": 0.5519233665214315,
+        "bottom": 0.7863740069630466
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 29,
+        "col": 3,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-4M": {
+      "box": {
+        "left": 0.551918907816093,
+        "top": 0.7690573516887482,
+        "right": 0.6034505316455259,
+        "bottom": 0.7863837866258675
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 29,
+        "col": 4,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-4N": {
+      "box": {
+        "left": 0.6034477533716042,
+        "top": 0.7690643644772033,
+        "right": 0.6549153524861575,
+        "bottom": 0.7863935540629613
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 29,
+        "col": 5,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-4O": {
+      "box": {
+        "left": 0.6549121818177749,
+        "top": 0.7690713687806725,
+        "right": 0.7064049585381678,
+        "bottom": 0.7864033260703498
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 29,
+        "col": 6,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-4P": {
+      "box": {
+        "left": 0.7064006910550636,
+        "top": 0.7690783764573808,
+        "right": 0.7578966603464206,
+        "bottom": 0.7864130990040451
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.97,
+      "position": {
+        "row": 29,
+        "col": 7,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-4Q": {
+      "box": {
+        "left": 0.7578940809838975,
+        "top": 0.7690853844193191,
+        "right": 0.809405203655978,
+        "bottom": 0.7864228750841231
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 29,
+        "col": 8,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "0-4R": {
+      "box": {
+        "left": 0.8094040491394583,
+        "top": 0.7690923946733664,
+        "right": 0.8609782628686873,
+        "bottom": 0.7864326626779726
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1,
+      "position": {
+        "row": 29,
+        "col": 9,
+        "rowspan": 1,
+        "colspan": 1,
+        "chunk_id": "d8c1d3e5-a84e-4df9-bc5f-706d65fc0485"
+      }
+    },
+    "1dfe9561-966d-4fa3-8890-aa071c71c207": {
+      "box": {
+        "left": 0.20524850487709045,
+        "top": 0.7888421416282654,
+        "right": 0.8047072887420654,
+        "bottom": 0.9043968319892883
+      },
+      "page": 0,
+      "type": "chunkText",
+      "confidence": 0.993,
+      "low_confidence_spans": []
+    },
+    "b9059dca-c55e-4355-8b9a-6c51ffde821a": {
+      "box": {
+        "left": 0.17047753930091858,
+        "top": 0.9287712574005127,
+        "right": 0.4287671148777008,
+        "bottom": 0.9589917659759521
+      },
+      "page": 0,
+      "type": "chunkMarginalia",
+      "confidence": 0.999,
+      "low_confidence_spans": []
+    },
+    "fee602f3-25c2-4d58-98b8-0f4272c87fa7": {
+      "box": {
+        "left": 0.6378315687179565,
+        "top": 0.9286052584648132,
+        "right": 0.8836590051651001,
+        "bottom": 0.9595896601676941
+      },
+      "page": 0,
+      "type": "chunkMarginalia",
+      "confidence": 0.791,
+      "low_confidence_spans": [
+        {
+          "text": "006 ",
+          "span": [
+            13,
+            17
+          ],
+          "confidence": 0.791
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "filename": "page_53_CDISC_Pilot_Study.pdf",
+    "org_id": "mypf5r3thp5b",
+    "page_count": 1,
+    "duration_ms": 9413,
+    "credit_usage": 3,
+    "job_id": "cmp9f57c201laah01ar2xy731",
+    "version": "dpt-2-20260410",
+    "failed_pages": []
+  }
+}
