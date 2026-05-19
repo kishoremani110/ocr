@@ -80,10 +80,23 @@ LAYOUT_MODEL_ID = "PaddlePaddle/PP-DocLayoutV3_safetensors"
 LAYOUT_THRESHOLD = 0.5
 
 OCR_PROMPT = (
-    "You are an OCR assistant. Extract all text from this document region and "
-    "return it as clean, well-structured Markdown. Preserve headings, bullet "
-    "lists, numbered lists, tables, and emphasis where visible. Do not add "
-    "commentary — output only the Markdown content."
+    "You are an OCR assistant. Extract all text from this document page and "
+    "return it as clean, well-structured Markdown.\n\n"
+    "CRITICAL TABLE RULES:\n"
+    "- Count the exact number of columns from the table header.\n"
+    "- Every row MUST have the same number of pipe (|) separators as the header.\n"
+    "- If a cell is empty/blank, write it as '| |' (pipe space pipe).\n"
+    "- NEVER skip or collapse empty cells.\n"
+    "- Example: '| Data | | Value | |' has 4 columns, 2 of which are empty.\n\n"
+    "- If a cell appears misaligned or spans awkardly, still extract its content into "
+    "  the correct column position.\n"
+    "- Extract all visible text in every cell, even if the cell borders look broken. \n\n"
+    "SUBSCRIPT AND SUPERSCRIPT RULES:\n"
+    "- Use HTML tags for superscripts: x<sup>2</sup>, 10<sup>3</sup>\n"
+    "- Use HTML tags for subscripts: H<sub>2</sub>O, CO<sub>2</sub>\n"
+    "- NEVER use LaTeX notation like ^{} or _{}\n\n"
+    "Preserve headings, bullet lists, numbered lists, and emphasis where visible. "
+    "Do not add commentary — output only the Markdown content."
 )
 
 
@@ -185,7 +198,7 @@ def image_to_base64(img: Image.Image) -> str:
 
 def ocr_region(img: Image.Image, host: str, model: str, label: str) -> str:
     b64    = image_to_base64(img)
-    client = ollama.Client(host=host, timeout=300)
+    client = ollama.Client(host=host, timeout=400)
 
     ticker = Ticker(f"OCR [{label}] ...").start()
     first  = True
