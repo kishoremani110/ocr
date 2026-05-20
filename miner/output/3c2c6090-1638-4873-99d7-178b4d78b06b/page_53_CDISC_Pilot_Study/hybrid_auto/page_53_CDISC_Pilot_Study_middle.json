@@ -1,0 +1,494 @@
+{
+    "pdf_info": [
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        134,
+                        72,
+                        512,
+                        111
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                72,
+                                433,
+                                90
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        72,
+                                        433,
+                                        90
+                                    ],
+                                    "type": "text",
+                                    "content": "Protocol Attachment LZZT.1",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                134,
+                                89,
+                                514,
+                                112
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        134,
+                                        89,
+                                        514,
+                                        112
+                                    ],
+                                    "type": "text",
+                                    "content": "Schedule of Events for Protocol H2Q-MC-LZZT(c)",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        119,
+                        141,
+                        528,
+                        624
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                119,
+                                141,
+                                528,
+                                624
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        119,
+                                        141,
+                                        528,
+                                        624
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                119,
+                                                141,
+                                                528,
+                                                624
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td></td><td>VISIT</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td></td><td>7</td><td>8</td></tr><tr><td>ACTIVITY</td><td>WEEK</td><td>-2</td><td>-.3</td><td>0</td><td>2</td><td>4</td><td></td><td>6</td><td>8</td></tr><tr><td>Informed consent</td><td></td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Patient number assigned</td><td></td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Hachinski ≤4</td><td></td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>MMSE 10-23</td><td></td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Physical examination</td><td></td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Medical History</td><td></td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Habits</td><td></td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Chest x-ray</td><td></td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Apo E genotyping</td><td></td><td></td><td></td><td></td><td>X</td><td></td><td></td><td></td><td></td></tr><tr><td>Patient randomized</td><td></td><td></td><td></td><td>X</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Vital signs/Temperature</td><td></td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td></td><td>X</td><td>X</td></tr><tr><td>Ambulatory ECG placed</td><td></td><td></td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Ambulatory ECG removed</td><td></td><td></td><td></td><td>X</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>ECG</td><td></td><td>X</td><td></td><td></td><td>X</td><td>X</td><td></td><td>X</td><td>X</td></tr><tr><td>Placebo TTS test</td><td></td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>CT Scan (if not within last year and patient passes all other screens)</td><td></td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Concomitant Medications</td><td></td><td>X</td><td></td><td>X</td><td>X</td><td>X</td><td></td><td>X</td><td>X</td></tr><tr><td>Laboratory (Chem/Hemat):</td><td></td><td>X</td><td></td><td></td><td>X</td><td>X</td><td></td><td>X</td><td>X</td></tr><tr><td>Laboratory (Urinalysis)</td><td></td><td>X</td><td></td><td></td><td>X</td><td></td><td></td><td></td><td></td></tr><tr><td>Plasma Specimen (Xanomeline)</td><td></td><td></td><td></td><td>X</td><td>X</td><td>X</td><td></td><td>X</td><td></td></tr><tr><td>Hemoglobin A1C</td><td></td><td>Xa</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Study drug record Medications dispensed Medications returned</td><td></td><td></td><td></td><td>X</td><td>X</td><td>X</td><td></td><td>X</td><td>X</td></tr><tr><td>TTS Acceptability Survey</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>ADAS-Cog</td><td></td><td>P</td><td></td><td>X</td><td></td><td></td><td></td><td></td><td>X</td></tr><tr><td>CIBIC+</td><td></td><td>P</td><td></td><td>X</td><td></td><td></td><td></td><td></td><td>X</td></tr><tr><td>DAD</td><td></td><td>P</td><td></td><td>X</td><td></td><td></td><td></td><td></td><td>X</td></tr><tr><td>NPI-X</td><td></td><td>P</td><td></td><td>X</td><td>X</td><td>X</td><td></td><td>X</td><td>Xb</td></tr><tr><td>Adverse events</td><td></td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td></td><td>X</td><td>X</td></tr></table>",
+                                            "image_path": "bd9e9a345b138603a86e7038b55ff0efa8957d18e660b155b745f54e9b67d6e8.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "angle": 0,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        127,
+                        625,
+                        425,
+                        637
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 2,
+                    "lines": [
+                        {
+                            "bbox": [
+                                129,
+                                624,
+                                425,
+                                637
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        129,
+                                        624,
+                                        425,
+                                        637
+                                    ],
+                                    "type": "text",
+                                    "content": "Abbreviations: CT = computed tomography; ECG = electrocardiogram",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        128,
+                        638,
+                        240,
+                        648
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 3,
+                    "lines": [
+                        {
+                            "bbox": [
+                                129,
+                                637,
+                                241,
+                                650
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        129,
+                                        637,
+                                        241,
+                                        650
+                                    ],
+                                    "type": "text",
+                                    "content": "X = Performed at this visit.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        127,
+                        651,
+                        413,
+                        662
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 4,
+                    "lines": [
+                        {
+                            "bbox": [
+                                127,
+                                649,
+                                413,
+                                663
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        127,
+                                        649,
+                                        413,
+                                        663
+                                    ],
+                                    "type": "text",
+                                    "content": "Xa = Performed at this visit if patient is an insulin-dependent diabetic.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        127,
+                        663,
+                        473,
+                        675
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 5,
+                    "lines": [
+                        {
+                            "bbox": [
+                                127,
+                                662,
+                                474,
+                                676
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        127,
+                                        662,
+                                        474,
+                                        676
+                                    ],
+                                    "type": "text",
+                                    "content": "Xb = Performed at this visit and via telephone interview 2 weeks following this visit.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        127,
+                        677,
+                        488,
+                        689
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 6,
+                    "lines": [
+                        {
+                            "bbox": [
+                                127,
+                                675,
+                                490,
+                                689
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        127,
+                                        675,
+                                        490,
+                                        689
+                                    ],
+                                    "type": "text",
+                                    "content": "P = Practice only - It is recommended that a sampling of the CIBIC+, ADAS-Cog, DAD,",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        127,
+                        689,
+                        440,
+                        701
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 7,
+                    "lines": [
+                        {
+                            "bbox": [
+                                127,
+                                689,
+                                441,
+                                702
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        127,
+                                        689,
+                                        441,
+                                        702
+                                    ],
+                                    "type": "text",
+                                    "content": "and NPI-X be administered at Visit 1. Data from this sampling would not be",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        127,
+                        703,
+                        342,
+                        714
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 8,
+                    "lines": [
+                        {
+                            "bbox": [
+                                128,
+                                701,
+                                342,
+                                715
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        128,
+                                        701,
+                                        342,
+                                        715
+                                    ],
+                                    "type": "text",
+                                    "content": "considered as study data and would not be collected.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        105,
+                        738,
+                        259,
+                        746
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 9,
+                    "lines": [
+                        {
+                            "bbox": [
+                                106,
+                                736,
+                                260,
+                                750
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        736,
+                                        260,
+                                        750
+                                    ],
+                                    "type": "text",
+                                    "content": "Xanomeline (LY246708) H2Q-MC-LZZT(c)",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        105,
+                        746,
+                        188,
+                        757
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 10,
+                    "lines": [
+                        {
+                            "bbox": [
+                                106,
+                                745,
+                                190,
+                                757
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        745,
+                                        190,
+                                        757
+                                    ],
+                                    "type": "text",
+                                    "content": "Clinical Study Protocol",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        392,
+                        738,
+                        536,
+                        746
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 11,
+                    "lines": [
+                        {
+                            "bbox": [
+                                392,
+                                736,
+                                537,
+                                750
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        392,
+                                        736,
+                                        537,
+                                        750
+                                    ],
+                                    "type": "text",
+                                    "content": "Copyright © 2006 Eli Lilly and Company",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        465,
+                        746,
+                        535,
+                        757
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 12,
+                    "lines": [
+                        {
+                            "bbox": [
+                                464,
+                                745,
+                                537,
+                                757
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        464,
+                                        745,
+                                        537,
+                                        757
+                                    ],
+                                    "type": "text",
+                                    "content": "Document Page 53",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_size": [
+                612,
+                792
+            ],
+            "page_idx": 0
+        }
+    ],
+    "_backend": "hybrid",
+    "_ocr_enable": false,
+    "_vlm_ocr_enable": false,
+    "_version_name": "3.0.4"
+}

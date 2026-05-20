@@ -1,0 +1,149 @@
+[
+    {
+        "type": "text",
+        "text": "Protocol Attachment LZZT.1 Schedule of Events for Protocol H2Q-MC-LZZT(c) ",
+        "text_level": 1,
+        "bbox": [
+            218,
+            90,
+            836,
+            140
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/bd9e9a345b138603a86e7038b55ff0efa8957d18e660b155b745f54e9b67d6e8.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td></td><td>VISIT</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td></td><td>7</td><td>8</td></tr><tr><td>ACTIVITY</td><td>WEEK</td><td>-2</td><td>-.3</td><td>0</td><td>2</td><td>4</td><td></td><td>6</td><td>8</td></tr><tr><td>Informed consent</td><td></td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Patient number assigned</td><td></td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Hachinski ≤4</td><td></td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>MMSE 10-23</td><td></td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Physical examination</td><td></td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Medical History</td><td></td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Habits</td><td></td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Chest x-ray</td><td></td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Apo E genotyping</td><td></td><td></td><td></td><td></td><td>X</td><td></td><td></td><td></td><td></td></tr><tr><td>Patient randomized</td><td></td><td></td><td></td><td>X</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Vital signs/Temperature</td><td></td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td></td><td>X</td><td>X</td></tr><tr><td>Ambulatory ECG placed</td><td></td><td></td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Ambulatory ECG removed</td><td></td><td></td><td></td><td>X</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>ECG</td><td></td><td>X</td><td></td><td></td><td>X</td><td>X</td><td></td><td>X</td><td>X</td></tr><tr><td>Placebo TTS test</td><td></td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>CT Scan (if not within last year and patient passes all other screens)</td><td></td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Concomitant Medications</td><td></td><td>X</td><td></td><td>X</td><td>X</td><td>X</td><td></td><td>X</td><td>X</td></tr><tr><td>Laboratory (Chem/Hemat):</td><td></td><td>X</td><td></td><td></td><td>X</td><td>X</td><td></td><td>X</td><td>X</td></tr><tr><td>Laboratory (Urinalysis)</td><td></td><td>X</td><td></td><td></td><td>X</td><td></td><td></td><td></td><td></td></tr><tr><td>Plasma Specimen (Xanomeline)</td><td></td><td></td><td></td><td>X</td><td>X</td><td>X</td><td></td><td>X</td><td></td></tr><tr><td>Hemoglobin A1C</td><td></td><td>Xa</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Study drug record Medications dispensed Medications returned</td><td></td><td></td><td></td><td>X</td><td>X</td><td>X</td><td></td><td>X</td><td>X</td></tr><tr><td>TTS Acceptability Survey</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>ADAS-Cog</td><td></td><td>P</td><td></td><td>X</td><td></td><td></td><td></td><td></td><td>X</td></tr><tr><td>CIBIC+</td><td></td><td>P</td><td></td><td>X</td><td></td><td></td><td></td><td></td><td>X</td></tr><tr><td>DAD</td><td></td><td>P</td><td></td><td>X</td><td></td><td></td><td></td><td></td><td>X</td></tr><tr><td>NPI-X</td><td></td><td>P</td><td></td><td>X</td><td>X</td><td>X</td><td></td><td>X</td><td>Xb</td></tr><tr><td>Adverse events</td><td></td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td></td><td>X</td><td>X</td></tr></table>",
+        "bbox": [
+            194,
+            178,
+            862,
+            787
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abbreviations: CT = computed tomography; ECG = electrocardiogram ",
+        "bbox": [
+            207,
+            789,
+            694,
+            804
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "X = Performed at this visit. ",
+        "bbox": [
+            209,
+            805,
+            392,
+            818
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Xa = Performed at this visit if patient is an insulin-dependent diabetic. ",
+        "bbox": [
+            207,
+            821,
+            674,
+            835
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Xb = Performed at this visit and via telephone interview 2 weeks following this visit. ",
+        "bbox": [
+            207,
+            837,
+            772,
+            852
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "P = Practice only - It is recommended that a sampling of the CIBIC+, ADAS-Cog, DAD, ",
+        "bbox": [
+            207,
+            854,
+            797,
+            869
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "and NPI-X be administered at Visit 1. Data from this sampling would not be ",
+        "bbox": [
+            207,
+            869,
+            718,
+            885
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "considered as study data and would not be collected. ",
+        "bbox": [
+            207,
+            887,
+            558,
+            901
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "Xanomeline (LY246708) H2Q-MC-LZZT(c) ",
+        "bbox": [
+            171,
+            931,
+            423,
+            941
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "Clinical Study Protocol ",
+        "bbox": [
+            171,
+            941,
+            307,
+            955
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "Copyright © 2006 Eli Lilly and Company ",
+        "bbox": [
+            640,
+            931,
+            875,
+            941
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "Document Page 53 ",
+        "bbox": [
+            759,
+            941,
+            874,
+            955
+        ],
+        "page_idx": 0
+    }
+]

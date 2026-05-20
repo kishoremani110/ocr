@@ -1,0 +1,103 @@
+[
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.089,
+                0.07,
+                0.203,
+                0.09
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.686,
+                0.069,
+                0.91,
+                0.091
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.823,
+                0.092,
+                0.91,
+                0.116
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.087,
+                0.136,
+                0.912,
+                0.873
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>Study period</td><td>Screening</td><td>ADM</td><td colspan=\"17\">Dosing and assessment perioda</td><td>EOS/ETb</td></tr><tr><td>Study day</td><td>Days -28 to -2</td><td>Day -1</td><td colspan=\"14\">Day 1</td><td colspan=\"2\">Day 2</td><td>Day 3 (DIS)</td><td>Day 8</td></tr><tr><td>Visit windows (days)</td><td>-</td><td>-</td><td colspan=\"14\">-</td><td>-</td><td></td><td>-</td><td>±1</td></tr><tr><td>Time windows (relative to dosing) for vital signs</td><td>-</td><td>-</td><td>-60 min</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>±30 min</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>±60 min</td><td>±60 min</td><td>±60 min</td><td>-</td><td></td></tr><tr><td>Time windows (relative to dosing) for PK</td><td>-</td><td>-</td><td>-60 min</td><td>-</td><td>±3 min</td><td>±5 min</td><td>±5 min</td><td>±5 min</td><td>±10 min</td><td>±15 min</td><td>±15 min</td><td>±30 min</td><td>±30 min</td><td>±30 min</td><td>±30 min</td><td>±60 min</td><td>±60 min</td><td>±60 min</td><td>-</td><td></td></tr><tr><td>Time relative to dose</td><td></td><td></td><td>Pre-dose</td><td>0 h</td><td>0.5 h</td><td>1 h</td><td>1.5 h</td><td>2 h</td><td>3 h</td><td>4 h</td><td>6 h</td><td>8 h</td><td>10 h</td><td>12 h</td><td>16 h</td><td>24 h</td><td>36 h</td><td>48 h</td><td></td><td></td></tr><tr><td>Cardiac biomarkers (troponin I and NT-proBNP)k</td><td>X</td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>X</td><td></td><td>X</td><td>X</td><td></td></tr><tr><td>Serum pregnancy testl</td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Urine pregnancy testl</td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>X</td><td></td></tr><tr><td>FSH testl</td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>HBV, HCV, HIV testingm</td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Urine drug screen</td><td>X</td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Alcohol breath test</td><td>X</td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>COVID-19 PCR testn</td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Prior/concomitant medications</td><td>X</td><td>X</td><td colspan=\"13\">X</td><td colspan=\"2\">X</td><td>X</td><td>X</td><td></td></tr><tr><td>Adverse eventso</td><td>X</td><td>X</td><td colspan=\"13\">X</td><td colspan=\"2\">X</td><td>X</td><td>X</td><td></td></tr><tr><td>Randomization (6:2)p</td><td></td><td>X</td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IP administrationb</td><td></td><td></td><td></td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>PK blood drawq.s</td><td></td><td></td><td>X</td><td></td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td></td><td></td></tr><tr><td>PD blood drawr.s</td><td></td><td></td><td>X</td><td></td><td>X</td><td>X</td><td></td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td></td><td>X</td><td></td><td></td><td></td><td></td></tr></table>"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.47,
+                0.91,
+                0.53,
+                0.93
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.09,
+                0.071,
+                0.203,
+                0.094
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.685,
+                0.066,
+                0.911,
+                0.095
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.822,
+                0.091,
+                0.912,
+                0.117
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.468,
+                0.908,
+                0.533,
+                0.931
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ]
+]

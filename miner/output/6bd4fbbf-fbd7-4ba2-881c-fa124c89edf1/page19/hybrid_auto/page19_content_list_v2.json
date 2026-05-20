@@ -1,0 +1,91 @@
+[
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/7720b02999f4e3a7a1c82e9e8b3e113def37d6c92a2494119a0a04e19ccf6872.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>Study period</td><td>Screening</td><td>ADM</td><td colspan=\"17\">Dosing and assessment perioda</td><td>EOS/ETb</td></tr><tr><td>Study day</td><td>Days -28 to -2</td><td>Day -1</td><td colspan=\"14\">Day 1</td><td colspan=\"2\">Day 2</td><td>Day 3 (DIS)</td><td>Day 8</td></tr><tr><td>Visit windows (days)</td><td>-</td><td>-</td><td colspan=\"14\">-</td><td>-</td><td></td><td>-</td><td>±1</td></tr><tr><td>Time windows (relative to dosing) for vital signs</td><td>-</td><td>-</td><td>-60 min</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>±30 min</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>±60 min</td><td>±60 min</td><td>±60 min</td><td>-</td><td></td></tr><tr><td>Time windows (relative to dosing) for PK</td><td>-</td><td>-</td><td>-60 min</td><td>-</td><td>±3 min</td><td>±5 min</td><td>±5 min</td><td>±5 min</td><td>±10 min</td><td>±15 min</td><td>±15 min</td><td>±30 min</td><td>±30 min</td><td>±30 min</td><td>±30 min</td><td>±60 min</td><td>±60 min</td><td>±60 min</td><td>-</td><td></td></tr><tr><td>Time relative to dose</td><td></td><td></td><td>Pre-dose</td><td>0 h</td><td>0.5 h</td><td>1 h</td><td>1.5 h</td><td>2 h</td><td>3 h</td><td>4 h</td><td>6 h</td><td>8 h</td><td>10 h</td><td>12 h</td><td>16 h</td><td>24 h</td><td>36 h</td><td>48 h</td><td></td><td></td></tr><tr><td>Cardiac biomarkers (troponin I and NT-proBNP)k</td><td>X</td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>X</td><td></td><td>X</td><td>X</td><td></td></tr><tr><td>Serum pregnancy testl</td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Urine pregnancy testl</td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>X</td><td></td></tr><tr><td>FSH testl</td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>HBV, HCV, HIV testingm</td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Urine drug screen</td><td>X</td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Alcohol breath test</td><td>X</td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>COVID-19 PCR testn</td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Prior/concomitant medications</td><td>X</td><td>X</td><td colspan=\"13\">X</td><td colspan=\"2\">X</td><td>X</td><td>X</td><td></td></tr><tr><td>Adverse eventso</td><td>X</td><td>X</td><td colspan=\"13\">X</td><td colspan=\"2\">X</td><td>X</td><td>X</td><td></td></tr><tr><td>Randomization (6:2)p</td><td></td><td>X</td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IP administrationb</td><td></td><td></td><td></td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>PK blood drawq.s</td><td></td><td></td><td>X</td><td></td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td></td><td></td></tr><tr><td>PD blood drawr.s</td><td></td><td></td><td>X</td><td></td><td>X</td><td>X</td><td></td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td></td><td>X</td><td></td><td></td><td></td><td></td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                85,
+                135,
+                911,
+                872
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "CONFIDENTIAL "
+                    }
+                ]
+            },
+            "bbox": [
+                88,
+                68,
+                202,
+                89
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Protocol PRO-1A-101 (Version 1.0) "
+                    }
+                ]
+            },
+            "bbox": [
+                685,
+                68,
+                909,
+                89
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "14 April 2025 "
+                    }
+                ]
+            },
+            "bbox": [
+                821,
+                91,
+                909,
+                114
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "19 of 114 "
+                    }
+                ]
+            },
+            "bbox": [
+                469,
+                908,
+                529,
+                929
+            ]
+        }
+    ]
+]
