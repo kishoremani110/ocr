@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 PDF → Markdown extractor using:
-  - pdfplumber  : renders each PDF page to an image
+  - pdfplumber   : renders each PDF page to an image
   - qwen3-vl:8b : reads the image and outputs Markdown
 
 Dependencies:
@@ -14,6 +14,7 @@ Usage:
     python pdf_to_markdown.py document.pdf --pages 1,3,5-8
     python pdf_to_markdown.py document.pdf --dpi 200
     python pdf_to_markdown.py document.pdf --host http://localhost:11434
+    python pdf_to_markdown.py document.pdf --no-think       # Disables thinking tokens (e.g., --think=false)
 
 GPU notes (AMD iGPU on Windows):
     --gpu sets OLLAMA_VULKAN=1 in the environment before starting the Ollama
@@ -54,19 +55,25 @@ DEFAULT_MODEL = "qwen3-vl:8b"
 DEFAULT_DPI   = 150
 DEFAULT_HOST  = "http://localhost:11434"
 
-PROMPT = """Convert this PDF page to clean Markdown.
-
-Rules:
-- Preserve all headings using # ## ### etc.
-- Preserve paragraphs, bullet points, and numbered lists.
-- Render every table in Markdown pipe syntax:
-  | Col1 | Col2 |
-  |------|------|
-  | val  | val  |
-- Preserve bold and italic where visible.
-- Do NOT add commentary, explanations, or preamble.
-- Output ONLY the Markdown content of this page."""
-
+PROMPT = (
+    "You are an OCR assistant. Extract all text from this document page and "
+    "return it as clean, well-structured Markdown.\n\n"
+    "CRITICAL TABLE RULES:\n"
+    "- Count the exact number of columns from the table header.\n"
+    "- Every row MUST have the same number of pipe (|) separators as the header.\n"
+    "- If a cell is empty/blank, write it as '| |' (pipe space pipe).\n"
+    "- NEVER skip or collapse empty cells.\n"
+    "- Example: '| Data | | Value | |' has 4 columns, 2 of which are empty.\n\n"
+    "- If a cell appears misaligned or spans awkardly, still extract its content into "
+    "  the correct column position.\n"
+    "- Extract all visible text in every cell, even if the cell borders look broken. \n\n"
+    "SUBSCRIPT AND SUPERSCRIPT RULES:\n"
+    "- Use HTML tags for superscripts: x<sup>2</sup>, 10<sup>3</sup>\n"
+    "- Use HTML tags for subscripts: H<sub>2</sub>O, CO<sub>2</sub>\n"
+    "- NEVER use LaTeX notation like ^{} or _{}\n\n"
+    "Preserve headings, bullet lists, numbered lists, and emphasis where visible. "
+    "Do not add commentary — output only the Markdown content."
+)
 
 # ── Elapsed-time ticker ────────────────────────────────────────────────────────
 
@@ -180,7 +187,7 @@ def page_to_base64(page, resolution: int) -> str:
 
 # ── OCR via Ollama with streaming ─────────────────────────────────────────────
 
-def extract_page_markdown(b64_image: str, host: str, model: str, page_num: int) -> str:
+def extract_page_markdown(b64_image: str, host: str, model: str, page_num: int, no_think: bool) -> str:
     """Stream Markdown tokens from the model, printing them as they arrive."""
     client = ollama.Client(host=host)
 
@@ -188,12 +195,18 @@ def extract_page_markdown(b64_image: str, host: str, model: str, page_num: int) 
     first  = True
     parts  = []
 
+    # Prepare model generation options
+    options = {}
+    if no_think:
+        options["think"] = False
+
     try:
         stream = client.generate(
             model=model,
             prompt=PROMPT,
             images=[b64_image],
             stream=True,
+            options=options,
         )
         for chunk in stream:
             token = chunk["response"]
@@ -235,7 +248,7 @@ def parse_pages(spec: str, total: int) -> list[int]:
 # ── Orchestration ─────────────────────────────────────────────────────────────
 
 def extract(pdf_path: str, output_path: str, host: str, model: str,
-            dpi: int, page_indices: list[int] | None) -> None:
+            dpi: int, page_indices: list[int] | None, no_think: bool) -> None:
     pdf_path = os.path.abspath(pdf_path)
     if not os.path.isfile(pdf_path):
         print(f"Error: File not found — {pdf_path}"); sys.exit(1)
@@ -244,7 +257,8 @@ def extract(pdf_path: str, output_path: str, host: str, model: str,
     print(f"Output  : {output_path}")
     print(f"Host    : {host}")
     print(f"Model   : {model}")
-    print(f"DPI     : {dpi}\n")
+    print(f"DPI     : {dpi}")
+    print(f"Think   : {'False' if no_think else 'True'}\n")
 
     with pdfplumber.open(pdf_path) as pdf:
         total   = len(pdf.pages)
@@ -256,7 +270,7 @@ def extract(pdf_path: str, output_path: str, host: str, model: str,
             page_num = idx + 1
             print(f"── Page {page_num}/{total}")
             b64 = page_to_base64(pdf.pages[idx], resolution=dpi)
-            md  = extract_page_markdown(b64, host, model, page_num)
+            md  = extract_page_markdown(b64, host, model, page_num, no_think)
             sections.append(f"<!-- page {page_num} -->\n{md}")
 
     full_md = f"<!-- source: {os.path.basename(pdf_path)} -->\n\n"
@@ -287,12 +301,18 @@ def main() -> None:
     parser.add_argument("--host",  default=DEFAULT_HOST,        help="Ollama host URL")
     parser.add_argument("--model", default=DEFAULT_MODEL,       help="Ollama model name")
     parser.add_argument("--dpi",   type=int, default=DEFAULT_DPI, help="Render resolution (default: 150)")
-    parser.add_argument("--pages", type=str, default=None,      help="Pages to process, e.g. '1,3,5-8'")
+    parser.add_argument("--pages", type=str, default=None,       help="Pages to process, e.g. '1,3,5-8'")
     parser.add_argument(
         "--gpu",
         action="store_true",
         default=False,
         help="Enable AMD iGPU acceleration via Vulkan (starts Ollama with OLLAMA_VULKAN=1)",
+    )
+    parser.add_argument(
+        "--no-think",
+        action="store_true",
+        default=False,
+        help="Disable reasoning/thinking tokens during output extraction (adds think=false option)",
     )
     args = parser.parse_args()
 
@@ -308,7 +328,7 @@ def main() -> None:
             total = len(pdf.pages)
 
         page_indices = parse_pages(args.pages, total) if args.pages else None
-        extract(args.pdf, args.output, args.host, args.model, args.dpi, page_indices)
+        extract(args.pdf, args.output, args.host, args.model, args.dpi, page_indices, args.no_think)
     finally:
         # Shut down the server we started (don't leave a dangling process)
         if ollama_proc is not None:
