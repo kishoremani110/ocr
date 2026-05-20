@@ -3,3 +3,5 @@
 # pycache and compiled Python files
 __pycache__/
 *.pyc
+
+.env
