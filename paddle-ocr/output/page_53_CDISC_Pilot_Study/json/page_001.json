@@ -1,0 +1,759 @@
+{
+    "input_path": "D:\\repos\\ocr\\page_53_CDISC_Pilot_Study.pdf",
+    "page_index": null,
+    "page_count": 1,
+    "width": 3672,
+    "height": 4752,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ],
+        "return_layout_polygon_points": true
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "paragraph_title",
+            "block_content": "Protocol Attachment LZZT.1\nSchedule of Events for Protocol H2Q-MC-LZZT(c)",
+            "block_bbox": [
+                807,
+                441,
+                3081,
+                669
+            ],
+            "block_id": 0,
+            "block_order": 1,
+            "group_id": 0,
+            "global_block_id": 0,
+            "global_group_id": 0,
+            "block_polygon_points": [
+                [
+                    807.0,
+                    441.0
+                ],
+                [
+                    3081.0,
+                    441.0
+                ],
+                [
+                    3081.0,
+                    669.0
+                ],
+                [
+                    807.0,
+                    669.0
+                ]
+            ]
+        },
+        {
+            "block_label": "table",
+            "block_content": "<table><tr><td></td><td>VISIT</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td></td><td>7</td><td>8</td></tr><tr><td>ACTIVITY</td><td>WEEK</td><td>-2</td><td>-.3</td><td>0</td><td>2</td><td>4</td><td></td><td>6</td><td>8</td></tr><tr><td>Informed consent</td><td></td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Patient number assigned</td><td></td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Hachinski ≤4</td><td></td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>MMSE 10-23</td><td></td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Physical examination</td><td></td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Medical History</td><td></td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Habits</td><td></td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Chest x-ray</td><td></td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Apo E genotyping</td><td></td><td></td><td></td><td></td><td>X</td><td></td><td></td><td></td><td></td></tr><tr><td>Patient randomized</td><td></td><td></td><td></td><td>X</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Vital signs/Temperature</td><td></td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td></td><td>X</td><td>X</td></tr><tr><td>Ambulatory ECG placed</td><td></td><td></td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Ambulatory ECG removed</td><td></td><td></td><td></td><td>X</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>ECG</td><td></td><td>X</td><td></td><td></td><td>X</td><td>X</td><td></td><td>X</td><td>X</td></tr><tr><td>Placebo TTS test</td><td></td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>CT Scan (if not within last year and patient passes all other screens)</td><td></td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Concomitant Medications</td><td></td><td>X</td><td></td><td>X</td><td>X</td><td>X</td><td></td><td>X</td><td>X</td></tr><tr><td>Laboratory (Chem/Hemat):</td><td></td><td>X</td><td></td><td></td><td>X</td><td>X</td><td></td><td>X</td><td>X</td></tr><tr><td>Laboratory (Urinalysis)</td><td></td><td>X</td><td></td><td></td><td>X</td><td></td><td></td><td></td><td></td></tr><tr><td>Plasma Specimen (Xanomeline)</td><td></td><td></td><td></td><td>X</td><td>X</td><td>X</td><td></td><td>X</td><td></td></tr><tr><td>Hemoglobin  $ A_{1}C $</td><td></td><td>X $ ^{a} $</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Study drug record</td><td></td><td></td><td></td><td>X</td><td>X</td><td>X</td><td></td><td>X</td><td>X</td></tr><tr><td>Medications dispensed</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Medications returned</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>TTS Acceptability Survey</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>ADAS-Cog</td><td></td><td>P</td><td></td><td>X</td><td></td><td></td><td></td><td></td><td>X</td></tr><tr><td>CIBIC+</td><td></td><td>P</td><td></td><td>X</td><td></td><td></td><td></td><td></td><td>X</td></tr><tr><td>DAD</td><td></td><td>P</td><td></td><td>X</td><td></td><td></td><td></td><td></td><td>X</td></tr><tr><td>NPI-X</td><td></td><td>P</td><td></td><td>X</td><td>X</td><td>X</td><td></td><td>X</td><td>X $ ^{b} $</td></tr><tr><td>Adverse events</td><td></td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td></td><td>X</td><td>X</td></tr></table>",
+            "block_bbox": [
+                721,
+                858,
+                3168,
+                3742
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1,
+            "global_block_id": 1,
+            "global_group_id": 1,
+            "block_polygon_points": [
+                [
+                    721.0,
+                    858.0
+                ],
+                [
+                    3168.0,
+                    858.0
+                ],
+                [
+                    3168.0,
+                    3742.0
+                ],
+                [
+                    721.0,
+                    3742.0
+                ]
+            ]
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": "Abbreviations: CT = computed tomography; ECG = electrocardiogram",
+            "block_bbox": [
+                775,
+                3751,
+                2560,
+                3818
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2,
+            "global_block_id": 2,
+            "global_group_id": 2,
+            "block_polygon_points": [
+                [
+                    775.0,
+                    3751.0
+                ],
+                [
+                    2560.0,
+                    3751.0
+                ],
+                [
+                    2560.0,
+                    3818.0
+                ],
+                [
+                    775.0,
+                    3818.0
+                ]
+            ]
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": "X = Performed at this visit.",
+            "block_bbox": [
+                772,
+                3827,
+                1451,
+                3894
+            ],
+            "block_id": 3,
+            "block_order": null,
+            "group_id": 3,
+            "global_block_id": 3,
+            "global_group_id": 3,
+            "block_polygon_points": [
+                [
+                    772.0,
+                    3827.0
+                ],
+                [
+                    1451.0,
+                    3827.0
+                ],
+                [
+                    1451.0,
+                    3894.0
+                ],
+                [
+                    772.0,
+                    3894.0
+                ]
+            ]
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": "X $ ^{a} $ = Performed at this visit if patient is an insulin-dependent diabetic.",
+            "block_bbox": [
+                768,
+                3902,
+                2480,
+                3976
+            ],
+            "block_id": 4,
+            "block_order": null,
+            "group_id": 4,
+            "global_block_id": 4,
+            "global_group_id": 4,
+            "block_polygon_points": [
+                [
+                    768.0,
+                    3902.0
+                ],
+                [
+                    2480.0,
+                    3902.0
+                ],
+                [
+                    2480.0,
+                    3976.0
+                ],
+                [
+                    768.0,
+                    3976.0
+                ]
+            ]
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": " $ X^{b} $ = Performed at this visit and via telephone interview 2 weeks following this visit.",
+            "block_bbox": [
+                768,
+                3983,
+                2853,
+                4054
+            ],
+            "block_id": 5,
+            "block_order": null,
+            "group_id": 5,
+            "global_block_id": 5,
+            "global_group_id": 5,
+            "block_polygon_points": [
+                [
+                    768.0,
+                    3983.0
+                ],
+                [
+                    2853.0,
+                    3983.0
+                ],
+                [
+                    2853.0,
+                    4054.0
+                ],
+                [
+                    768.0,
+                    4054.0
+                ]
+            ]
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": "P = Practice only - It is recommended that a sampling of the CIBIC+, ADAS-Cog, DAD,",
+            "block_bbox": [
+                767,
+                4061,
+                2938,
+                4134
+            ],
+            "block_id": 6,
+            "block_order": null,
+            "group_id": 6,
+            "global_block_id": 6,
+            "global_group_id": 6,
+            "block_polygon_points": [
+                [
+                    767.0,
+                    4061.0
+                ],
+                [
+                    2938.0,
+                    4061.0
+                ],
+                [
+                    2938.0,
+                    4134.0
+                ],
+                [
+                    767.0,
+                    4134.0
+                ]
+            ]
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": "and NPI-X be administered at Visit 1. Data from this sampling would not be",
+            "block_bbox": [
+                771,
+                4138,
+                2657,
+                4211
+            ],
+            "block_id": 7,
+            "block_order": null,
+            "group_id": 7,
+            "global_block_id": 7,
+            "global_group_id": 7,
+            "block_polygon_points": [
+                [
+                    771.0,
+                    4138.0
+                ],
+                [
+                    2657.0,
+                    4138.0
+                ],
+                [
+                    2657.0,
+                    4211.0
+                ],
+                [
+                    771.0,
+                    4211.0
+                ]
+            ]
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": "considered as study data and would not be collected.",
+            "block_bbox": [
+                767,
+                4216,
+                2067,
+                4291
+            ],
+            "block_id": 8,
+            "block_order": null,
+            "group_id": 8,
+            "global_block_id": 8,
+            "global_group_id": 8,
+            "block_polygon_points": [
+                [
+                    767.0,
+                    4216.0
+                ],
+                [
+                    2067.0,
+                    4216.0
+                ],
+                [
+                    2067.0,
+                    4291.0
+                ],
+                [
+                    767.0,
+                    4291.0
+                ]
+            ]
+        },
+        {
+            "block_label": "footer",
+            "block_content": "Xanomeline (LY246708) H2Q-MC-LZZT(c)\nClinical Study Protocol",
+            "block_bbox": [
+                634,
+                4424,
+                1564,
+                4545
+            ],
+            "block_id": 9,
+            "block_order": null,
+            "group_id": 9,
+            "global_block_id": 9,
+            "global_group_id": 9,
+            "block_polygon_points": [
+                [
+                    634.0,
+                    4424.0
+                ],
+                [
+                    1564.0,
+                    4424.0
+                ],
+                [
+                    1564.0,
+                    4545.0
+                ],
+                [
+                    634.0,
+                    4545.0
+                ]
+            ]
+        },
+        {
+            "block_label": "footer",
+            "block_content": "Copyright © 2006 Eli Lilly and Company\nDocument Page 53",
+            "block_bbox": [
+                2354,
+                4423,
+                3223,
+                4545
+            ],
+            "block_id": 10,
+            "block_order": null,
+            "group_id": 10,
+            "global_block_id": 10,
+            "global_group_id": 10,
+            "block_polygon_points": [
+                [
+                    2354.0,
+                    4423.0
+                ],
+                [
+                    3223.0,
+                    4423.0
+                ],
+                [
+                    3223.0,
+                    4545.0
+                ],
+                [
+                    2354.0,
+                    4545.0
+                ]
+            ]
+        }
+    ],
+    "layout_det_res": [
+        {
+            "input_path": null,
+            "page_index": null,
+            "boxes": [
+                {
+                    "cls_id": 17,
+                    "label": "paragraph_title",
+                    "score": 0.4843060076236725,
+                    "coordinate": [
+                        807,
+                        441,
+                        3081,
+                        669
+                    ],
+                    "order": 1,
+                    "polygon_points": [
+                        [
+                            807.0,
+                            441.0
+                        ],
+                        [
+                            3081.0,
+                            441.0
+                        ],
+                        [
+                            3081.0,
+                            669.0
+                        ],
+                        [
+                            807.0,
+                            669.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 21,
+                    "label": "table",
+                    "score": 0.978644847869873,
+                    "coordinate": [
+                        721,
+                        858,
+                        3168,
+                        3742
+                    ],
+                    "order": null,
+                    "polygon_points": [
+                        [
+                            721.0,
+                            858.0
+                        ],
+                        [
+                            3168.0,
+                            858.0
+                        ],
+                        [
+                            3168.0,
+                            3742.0
+                        ],
+                        [
+                            721.0,
+                            3742.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 24,
+                    "label": "vision_footnote",
+                    "score": 0.834173321723938,
+                    "coordinate": [
+                        775,
+                        3751,
+                        2560,
+                        3818
+                    ],
+                    "order": null,
+                    "polygon_points": [
+                        [
+                            775.0,
+                            3751.0
+                        ],
+                        [
+                            2560.0,
+                            3751.0
+                        ],
+                        [
+                            2560.0,
+                            3818.0
+                        ],
+                        [
+                            775.0,
+                            3818.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 24,
+                    "label": "vision_footnote",
+                    "score": 0.8287448287010193,
+                    "coordinate": [
+                        772,
+                        3827,
+                        1451,
+                        3894
+                    ],
+                    "order": null,
+                    "polygon_points": [
+                        [
+                            772.0,
+                            3827.0
+                        ],
+                        [
+                            1451.0,
+                            3827.0
+                        ],
+                        [
+                            1451.0,
+                            3894.0
+                        ],
+                        [
+                            772.0,
+                            3894.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 24,
+                    "label": "vision_footnote",
+                    "score": 0.8480098247528076,
+                    "coordinate": [
+                        768,
+                        3902,
+                        2480,
+                        3976
+                    ],
+                    "order": null,
+                    "polygon_points": [
+                        [
+                            768.0,
+                            3902.0
+                        ],
+                        [
+                            2480.0,
+                            3902.0
+                        ],
+                        [
+                            2480.0,
+                            3976.0
+                        ],
+                        [
+                            768.0,
+                            3976.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 24,
+                    "label": "vision_footnote",
+                    "score": 0.8628854155540466,
+                    "coordinate": [
+                        768,
+                        3983,
+                        2853,
+                        4054
+                    ],
+                    "order": null,
+                    "polygon_points": [
+                        [
+                            768.0,
+                            3983.0
+                        ],
+                        [
+                            2853.0,
+                            3983.0
+                        ],
+                        [
+                            2853.0,
+                            4054.0
+                        ],
+                        [
+                            768.0,
+                            4054.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 24,
+                    "label": "vision_footnote",
+                    "score": 0.8546146154403687,
+                    "coordinate": [
+                        767,
+                        4061,
+                        2938,
+                        4134
+                    ],
+                    "order": null,
+                    "polygon_points": [
+                        [
+                            767.0,
+                            4061.0
+                        ],
+                        [
+                            2938.0,
+                            4061.0
+                        ],
+                        [
+                            2938.0,
+                            4134.0
+                        ],
+                        [
+                            767.0,
+                            4134.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 24,
+                    "label": "vision_footnote",
+                    "score": 0.7921028137207031,
+                    "coordinate": [
+                        771,
+                        4138,
+                        2657,
+                        4211
+                    ],
+                    "order": null,
+                    "polygon_points": [
+                        [
+                            771.0,
+                            4138.0
+                        ],
+                        [
+                            2657.0,
+                            4138.0
+                        ],
+                        [
+                            2657.0,
+                            4211.0
+                        ],
+                        [
+                            771.0,
+                            4211.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 24,
+                    "label": "vision_footnote",
+                    "score": 0.8253060579299927,
+                    "coordinate": [
+                        767,
+                        4216,
+                        2067,
+                        4291
+                    ],
+                    "order": null,
+                    "polygon_points": [
+                        [
+                            767.0,
+                            4216.0
+                        ],
+                        [
+                            2067.0,
+                            4216.0
+                        ],
+                        [
+                            2067.0,
+                            4291.0
+                        ],
+                        [
+                            767.0,
+                            4291.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 8,
+                    "label": "footer",
+                    "score": 0.63346266746521,
+                    "coordinate": [
+                        634,
+                        4424,
+                        1564,
+                        4545
+                    ],
+                    "order": null,
+                    "polygon_points": [
+                        [
+                            634.0,
+                            4424.0
+                        ],
+                        [
+                            1564.0,
+                            4424.0
+                        ],
+                        [
+                            1564.0,
+                            4545.0
+                        ],
+                        [
+                            634.0,
+                            4545.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 8,
+                    "label": "footer",
+                    "score": 0.318025678396225,
+                    "coordinate": [
+                        639,
+                        4483,
+                        1145,
+                        4548
+                    ],
+                    "order": null,
+                    "polygon_points": [
+                        [
+                            639.0,
+                            4483.0
+                        ],
+                        [
+                            1145.0,
+                            4483.0
+                        ],
+                        [
+                            1145.0,
+                            4548.0
+                        ],
+                        [
+                            639.0,
+                            4548.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 8,
+                    "label": "footer",
+                    "score": 0.8140033483505249,
+                    "coordinate": [
+                        2354,
+                        4423,
+                        3223,
+                        4545
+                    ],
+                    "order": null,
+                    "polygon_points": [
+                        [
+                            2354.0,
+                            4423.0
+                        ],
+                        [
+                            3223.0,
+                            4423.0
+                        ],
+                        [
+                            3223.0,
+                            4545.0
+                        ],
+                        [
+                            2354.0,
+                            4545.0
+                        ]
+                    ]
+                }
+            ]
+        }
+    ]
+}
